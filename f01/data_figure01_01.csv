@@ -1,30 +1,30 @@
-﻿region,id,r,fuel_class,fraction
-British Isles,1990,26,Fossil fuels & Other,0.6311598009947295
-British Isles,1991,2,Fossil fuels & Other,0.6635131359374323
-British Isles,1992,20,Fossil fuels & Other,0.6444026617772552
-British Isles,1993,9,Fossil fuels & Other,0.6540241867330064
-British Isles,1994,25,Fossil fuels & Other,0.6357188592056932
-British Isles,1995,19,Fossil fuels & Other,0.6422097295397641
-British Isles,1996,7,Fossil fuels & Other,0.6630827423225611
-British Isles,1997,4,Fossil fuels & Other,0.6581803013560396
-British Isles,1998,22,Fossil fuels & Other,0.6387199024707885
-British Isles,1999,23,Fossil fuels & Other,0.6357501880888691
-British Isles,2000,18,Fossil fuels & Other,0.6422796705176368
-British Isles,2001,3,Fossil fuels & Other,0.6606844327580303
-British Isles,2002,16,Fossil fuels & Other,0.6424472472007594
-British Isles,2003,5,Fossil fuels & Other,0.658947767181422
-British Isles,2004,12,Fossil fuels & Other,0.6484252599731418
-British Isles,2005,13,Fossil fuels & Other,0.648341435216872
-British Isles,2006,10,Fossil fuels & Other,0.6496131001849624
-British Isles,2007,14,Fossil fuels & Other,0.6449162864453492
-British Isles,2008,21,Fossil fuels & Other,0.6401190351263935
-British Isles,2009,11,Fossil fuels & Other,0.6495466600568273
-British Isles,2010,1,Fossil fuels & Other,0.6815835149285457
-British Isles,2011,17,Fossil fuels & Other,0.6442822967771341
-British Isles,2012,6,Fossil fuels & Other,0.6590803025245172
-British Isles,2013,8,Fossil fuels & Other,0.6568394967836563
-British Isles,2014,15,Fossil fuels & Other,0.6417505823434833
-British Isles,2015,24,Fossil fuels & Other,0.6374438611366852
+region,id,r,fuel_class,fraction
+UK & Ireland,1990,26,Fossil fuels & Other,0.6311598009947295
+UK & Ireland,1991,2,Fossil fuels & Other,0.6635131359374323
+UK & Ireland,1992,20,Fossil fuels & Other,0.6444026617772552
+UK & Ireland,1993,9,Fossil fuels & Other,0.6540241867330064
+UK & Ireland,1994,25,Fossil fuels & Other,0.6357188592056932
+UK & Ireland,1995,19,Fossil fuels & Other,0.6422097295397641
+UK & Ireland,1996,7,Fossil fuels & Other,0.6630827423225611
+UK & Ireland,1997,4,Fossil fuels & Other,0.6581803013560396
+UK & Ireland,1998,22,Fossil fuels & Other,0.6387199024707885
+UK & Ireland,1999,23,Fossil fuels & Other,0.6357501880888691
+UK & Ireland,2000,18,Fossil fuels & Other,0.6422796705176368
+UK & Ireland,2001,3,Fossil fuels & Other,0.6606844327580303
+UK & Ireland,2002,16,Fossil fuels & Other,0.6424472472007594
+UK & Ireland,2003,5,Fossil fuels & Other,0.658947767181422
+UK & Ireland,2004,12,Fossil fuels & Other,0.6484252599731418
+UK & Ireland,2005,13,Fossil fuels & Other,0.648341435216872
+UK & Ireland,2006,10,Fossil fuels & Other,0.6496131001849624
+UK & Ireland,2007,14,Fossil fuels & Other,0.6449162864453492
+UK & Ireland,2008,21,Fossil fuels & Other,0.6401190351263935
+UK & Ireland,2009,11,Fossil fuels & Other,0.6495466600568273
+UK & Ireland,2010,1,Fossil fuels & Other,0.6815835149285457
+UK & Ireland,2011,17,Fossil fuels & Other,0.6442822967771341
+UK & Ireland,2012,6,Fossil fuels & Other,0.6590803025245172
+UK & Ireland,2013,8,Fossil fuels & Other,0.6568394967836563
+UK & Ireland,2014,15,Fossil fuels & Other,0.6417505823434833
+UK & Ireland,2015,24,Fossil fuels & Other,0.6374438611366852
 Europe,1990,4,Fossil fuels & Other,0.44157797473365723
 Europe,1991,1,Fossil fuels & Other,0.4575375335707182
 Europe,1992,13,Fossil fuels & Other,0.43724299772231434
@@ -207,32 +207,32 @@ SEE,2012,15,Fossil fuels & Other,0.661229487455841
 SEE,2013,24,Fossil fuels & Other,0.63436464930367
 SEE,2014,25,Fossil fuels & Other,0.6293266176683935
 SEE,2015,19,Fossil fuels & Other,0.6493556652502541
-British Isles,1990,26,Hydro-power,0.020495337251117934
-British Isles,1991,2,Hydro-power,0.019054612370337235
-British Isles,1992,20,Hydro-power,0.020603638071769563
-British Isles,1993,9,Hydro-power,0.02030371765486839
-British Isles,1994,25,Hydro-power,0.021242480405612017
-British Isles,1995,19,Hydro-power,0.020600431061486013
-British Isles,1996,7,Hydro-power,0.019292973642250154
-British Isles,1997,4,Hydro-power,0.01946086538376896
-British Isles,1998,22,Hydro-power,0.022317121639252042
-British Isles,1999,23,Hydro-power,0.022926984474028255
-British Isles,2000,18,Hydro-power,0.024338906811981184
-British Isles,2001,3,Hydro-power,0.020647313063039328
-British Isles,2002,16,Hydro-power,0.02341756204207288
-British Isles,2003,5,Hydro-power,0.019760178767694384
-British Isles,2004,12,Hydro-power,0.022810755261888287
-British Isles,2005,13,Hydro-power,0.02205110009355059
-British Isles,2006,10,Hydro-power,0.0223240432750376
-British Isles,2007,14,Hydro-power,0.023488623988445874
-British Isles,2008,21,Hydro-power,0.02445297390296789
-British Isles,2009,11,Hydro-power,0.023801020448533997
-British Isles,2010,1,Hydro-power,0.02009263798786675
-British Isles,2011,17,Hydro-power,0.022489145136002243
-British Isles,2012,6,Hydro-power,0.023721139639767224
-British Isles,2013,8,Hydro-power,0.022422328508536222
-British Isles,2014,15,Hydro-power,0.025991056655485862
-British Isles,2015,24,Hydro-power,0.02505361034596293
+UK & Ireland,1990,26,Hydro-power,0.020495337251117934
+UK & Ireland,1991,2,Hydro-power,0.019054612370337235
+UK & Ireland,1992,20,Hydro-power,0.020603638071769563
+UK & Ireland,1993,9,Hydro-power,0.02030371765486839
+UK & Ireland,1994,25,Hydro-power,0.021242480405612017
+UK & Ireland,1995,19,Hydro-power,0.020600431061486013
+UK & Ireland,1996,7,Hydro-power,0.019292973642250154
+UK & Ireland,1997,4,Hydro-power,0.01946086538376896
+UK & Ireland,1998,22,Hydro-power,0.022317121639252042
+UK & Ireland,1999,23,Hydro-power,0.022926984474028255
+UK & Ireland,2000,18,Hydro-power,0.024338906811981184
+UK & Ireland,2001,3,Hydro-power,0.020647313063039328
+UK & Ireland,2002,16,Hydro-power,0.02341756204207288
+UK & Ireland,2003,5,Hydro-power,0.019760178767694384
+UK & Ireland,2004,12,Hydro-power,0.022810755261888287
+UK & Ireland,2005,13,Hydro-power,0.02205110009355059
+UK & Ireland,2006,10,Hydro-power,0.0223240432750376
+UK & Ireland,2007,14,Hydro-power,0.023488623988445874
+UK & Ireland,2008,21,Hydro-power,0.02445297390296789
+UK & Ireland,2009,11,Hydro-power,0.023801020448533997
+UK & Ireland,2010,1,Hydro-power,0.02009263798786675
+UK & Ireland,2011,17,Hydro-power,0.022489145136002243
+UK & Ireland,2012,6,Hydro-power,0.023721139639767224
+UK & Ireland,2013,8,Hydro-power,0.022422328508536222
+UK & Ireland,2014,15,Hydro-power,0.025991056655485862
+UK & Ireland,2015,24,Hydro-power,0.02505361034596293
 Europe,1990,4,Hydro-power,0.1734436167078477
 Europe,1991,1,Hydro-power,0.17339188026587485
 Europe,1992,13,Hydro-power,0.1892422920173867
@@ -415,32 +415,32 @@ SEE,2012,15,Hydro-power,0.20355938743745755
 SEE,2013,24,Hydro-power,0.2312356312035644
 SEE,2014,25,Hydro-power,0.2421261615185688
 SEE,2015,19,Hydro-power,0.21643443274284122
-British Isles,1990,26,Nuclear,0.19902346939918744
-British Isles,1991,2,Nuclear,0.19365129658307875
-British Isles,1992,20,Nuclear,0.19632991262216903
-British Isles,1993,9,Nuclear,0.19526301355590892
-British Isles,1994,25,Nuclear,0.19786155891613771
-British Isles,1995,19,Nuclear,0.19857448249240364
-British Isles,1996,7,Nuclear,0.19104943007795455
-British Isles,1997,4,Nuclear,0.1978759608142256
-British Isles,1998,22,Nuclear,0.19785784747428764
-British Isles,1999,23,Nuclear,0.1996940694396755
-British Isles,2000,18,Nuclear,0.19869861134021197
-British Isles,2001,3,Nuclear,0.19647894502311858
-British Isles,2002,16,Nuclear,0.20121764225201214
-British Isles,2003,5,Nuclear,0.19607915479504437
-British Isles,2004,12,Nuclear,0.1984030099750146
-British Isles,2005,13,Nuclear,0.19760527811637368
-British Isles,2006,10,Nuclear,0.19846432487195903
-British Isles,2007,14,Nuclear,0.20006459665227186
-British Isles,2008,21,Nuclear,0.19773209481033324
-British Isles,2009,11,Nuclear,0.19745501312930716
-British Isles,2010,1,Nuclear,0.19161916044278002
-British Isles,2011,17,Nuclear,0.1993819193518958
-British Isles,2012,6,Nuclear,0.19508648257750025
-British Isles,2013,8,Nuclear,0.19345498082646123
-British Isles,2014,15,Nuclear,0.20212112998984294
-British Isles,2015,24,Nuclear,0.19762953830961436
+UK & Ireland,1990,26,Nuclear,0.19902346939918744
+UK & Ireland,1991,2,Nuclear,0.19365129658307875
+UK & Ireland,1992,20,Nuclear,0.19632991262216903
+UK & Ireland,1993,9,Nuclear,0.19526301355590892
+UK & Ireland,1994,25,Nuclear,0.19786155891613771
+UK & Ireland,1995,19,Nuclear,0.19857448249240364
+UK & Ireland,1996,7,Nuclear,0.19104943007795455
+UK & Ireland,1997,4,Nuclear,0.1978759608142256
+UK & Ireland,1998,22,Nuclear,0.19785784747428764
+UK & Ireland,1999,23,Nuclear,0.1996940694396755
+UK & Ireland,2000,18,Nuclear,0.19869861134021197
+UK & Ireland,2001,3,Nuclear,0.19647894502311858
+UK & Ireland,2002,16,Nuclear,0.20121764225201214
+UK & Ireland,2003,5,Nuclear,0.19607915479504437
+UK & Ireland,2004,12,Nuclear,0.1984030099750146
+UK & Ireland,2005,13,Nuclear,0.19760527811637368
+UK & Ireland,2006,10,Nuclear,0.19846432487195903
+UK & Ireland,2007,14,Nuclear,0.20006459665227186
+UK & Ireland,2008,21,Nuclear,0.19773209481033324
+UK & Ireland,2009,11,Nuclear,0.19745501312930716
+UK & Ireland,2010,1,Nuclear,0.19161916044278002
+UK & Ireland,2011,17,Nuclear,0.1993819193518958
+UK & Ireland,2012,6,Nuclear,0.19508648257750025
+UK & Ireland,2013,8,Nuclear,0.19345498082646123
+UK & Ireland,2014,15,Nuclear,0.20212112998984294
+UK & Ireland,2015,24,Nuclear,0.19762953830961436
 Europe,1990,4,Nuclear,0.2567014841277899
 Europe,1991,1,Nuclear,0.2526382341909093
 Europe,1992,13,Nuclear,0.25003613380736234
@@ -623,32 +623,32 @@ SEE,2012,15,Nuclear,0.07981233576955259
 SEE,2013,24,Nuclear,0.08063348544994238
 SEE,2014,25,Nuclear,0.08122476815028348
 SEE,2015,19,Nuclear,0.08093405389574372
-British Isles,1990,26,Solar & Wind,0.1493213923549652
-British Isles,1991,2,Solar & Wind,0.12378095510915162
-British Isles,1992,20,Solar & Wind,0.13866378752880612
-British Isles,1993,9,Solar & Wind,0.13040908205621624
-British Isles,1994,25,Solar & Wind,0.14517710147255705
-British Isles,1995,19,Solar & Wind,0.1386153569063463
-British Isles,1996,7,Solar & Wind,0.12657485395723417
-British Isles,1997,4,Solar & Wind,0.12448287244596593
-British Isles,1998,22,Solar & Wind,0.14110512841567188
-British Isles,1999,23,Solar & Wind,0.14162875799742713
-British Isles,2000,18,Solar & Wind,0.13468281133017002
-British Isles,2001,3,Solar & Wind,0.12218930915581169
-British Isles,2002,16,Solar & Wind,0.13291754850515564
-British Isles,2003,5,Solar & Wind,0.12521289925583928
-British Isles,2004,12,Solar & Wind,0.13036097478995534
-British Isles,2005,13,Solar & Wind,0.13200218657320373
-British Isles,2006,10,Solar & Wind,0.1295985316680409
-British Isles,2007,14,Solar & Wind,0.13153049291393312
-British Isles,2008,21,Solar & Wind,0.1376958961603054
-British Isles,2009,11,Solar & Wind,0.12919730636533158
-British Isles,2010,1,Solar & Wind,0.10670468664080739
-British Isles,2011,17,Solar & Wind,0.13384663873496777
-British Isles,2012,6,Solar & Wind,0.12211207525821537
-British Isles,2013,8,Solar & Wind,0.12728319388134626
-British Isles,2014,15,Solar & Wind,0.13013723101118801
-British Isles,2015,24,Solar & Wind,0.13987299020773752
+UK & Ireland,1990,26,Solar & Wind,0.1493213923549652
+UK & Ireland,1991,2,Solar & Wind,0.12378095510915162
+UK & Ireland,1992,20,Solar & Wind,0.13866378752880612
+UK & Ireland,1993,9,Solar & Wind,0.13040908205621624
+UK & Ireland,1994,25,Solar & Wind,0.14517710147255705
+UK & Ireland,1995,19,Solar & Wind,0.1386153569063463
+UK & Ireland,1996,7,Solar & Wind,0.12657485395723417
+UK & Ireland,1997,4,Solar & Wind,0.12448287244596593
+UK & Ireland,1998,22,Solar & Wind,0.14110512841567188
+UK & Ireland,1999,23,Solar & Wind,0.14162875799742713
+UK & Ireland,2000,18,Solar & Wind,0.13468281133017002
+UK & Ireland,2001,3,Solar & Wind,0.12218930915581169
+UK & Ireland,2002,16,Solar & Wind,0.13291754850515564
+UK & Ireland,2003,5,Solar & Wind,0.12521289925583928
+UK & Ireland,2004,12,Solar & Wind,0.13036097478995534
+UK & Ireland,2005,13,Solar & Wind,0.13200218657320373
+UK & Ireland,2006,10,Solar & Wind,0.1295985316680409
+UK & Ireland,2007,14,Solar & Wind,0.13153049291393312
+UK & Ireland,2008,21,Solar & Wind,0.1376958961603054
+UK & Ireland,2009,11,Solar & Wind,0.12919730636533158
+UK & Ireland,2010,1,Solar & Wind,0.10670468664080739
+UK & Ireland,2011,17,Solar & Wind,0.13384663873496777
+UK & Ireland,2012,6,Solar & Wind,0.12211207525821537
+UK & Ireland,2013,8,Solar & Wind,0.12728319388134626
+UK & Ireland,2014,15,Solar & Wind,0.13013723101118801
+UK & Ireland,2015,24,Solar & Wind,0.13987299020773752
 Europe,1990,4,Solar & Wind,0.12827692443070515
 Europe,1991,1,Solar & Wind,0.11643235197249767
 Europe,1992,13,Solar & Wind,0.12347857645293657
