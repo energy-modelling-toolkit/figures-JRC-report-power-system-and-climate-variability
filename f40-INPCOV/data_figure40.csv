@@ -1,0 +1,24 @@
+from_region,from_variable,to_region,to_variable,corr,size_class
+CWE,demand_anom,UK & Ireland,demand_anom,0.6723058296086208, 
+CWE,demand_anom,CEE,demand_anom,0.6722117579084352, 
+Iberia,demand_anom,CEE,demand_anom,0.5561328305580668,<0.6
+Italy,demand_anom,CEE,demand_anom,0.6982274834558939, 
+SEE,demand_anom,CEE,demand_anom,0.5786494452370953,<0.6
+SEE,inflow_anom,CEE,inflow_anom,0.7983750468907098,>0.75
+CWE,wind_anom,CEE,wind_anom,0.547907516358266,<0.6
+UK & Ireland,demand_anom,CWE,demand_anom,0.6723058296086208, 
+CEE,demand_anom,CWE,demand_anom,0.6722117579084352, 
+Iberia,demand_anom,CWE,demand_anom,0.6791581063823238, 
+Italy,demand_anom,CWE,demand_anom,0.5458790249887989,<0.6
+Italy,inflow_anom,CWE,inflow_anom,0.5680127679033838,<0.6
+CEE,wind_anom,CWE,wind_anom,0.547907516358266,<0.6
+CEE,demand_anom,Iberia,demand_anom,0.5561328305580668,<0.6
+CWE,demand_anom,Iberia,demand_anom,0.6791581063823238, 
+Italy,demand_anom,Iberia,demand_anom,0.6516688605993195, 
+CEE,demand_anom,Italy,demand_anom,0.6982274834558939, 
+CWE,demand_anom,Italy,demand_anom,0.5458790249887989,<0.6
+Iberia,demand_anom,Italy,demand_anom,0.6516688605993195, 
+CWE,inflow_anom,Italy,inflow_anom,0.5680127679033838,<0.6
+CEE,demand_anom,SEE,demand_anom,0.5786494452370953,<0.6
+CEE,inflow_anom,SEE,inflow_anom,0.7983750468907098,>0.75
+Northern,demand_anom,Northern,NA,NA,NA

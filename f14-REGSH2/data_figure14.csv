@@ -1,0 +1,193 @@
+region,id,season,r,fuel_class,fraction,season_label,year_label,int
+Europe,1990,3,1,Hydro-power,0.1783115969693993,Summer,Max,1.3
+Europe,1991,4,1,Hydro-power,0.16470497297349498,Autumn,Max,1.4
+Europe,1995,2,14,Hydro-power,0.18399457257732205,Spring,Med,14.2
+Europe,1996,2,1,Hydro-power,0.1732378546953457,Spring,Max,1.2
+Europe,1998,3,26,Hydro-power,0.22333216345137363,Summer,Min,26.3
+Europe,1999,3,14,Hydro-power,0.22367630672967428,Summer,Med,14.3
+Europe,2000,2,26,Hydro-power,0.21413023920138471,Spring,Min,26.2
+Europe,2000,4,26,Hydro-power,0.21474476693956362,Autumn,Min,26.4
+Europe,2001,1,14,Hydro-power,0.18779898529165853,Winter,Med,14.1
+Europe,2006,1,1,Hydro-power,0.16875499658851859,Winter,Max,1.1
+Europe,2014,1,26,Hydro-power,0.18684601562910436,Winter,Min,26.1
+Europe,2015,4,14,Hydro-power,0.1891895597906156,Autumn,Med,14.4
+CEE,1990,3,1,Hydro-power,0.10687646763517185,Summer,Max,1.3
+CEE,1991,2,1,Hydro-power,0.10711969315355464,Spring,Max,1.2
+CEE,1997,4,14,Hydro-power,0.11110250427100925,Autumn,Med,14.4
+CEE,1998,2,14,Hydro-power,0.1207465601451181,Spring,Med,14.2
+CEE,1998,4,26,Hydro-power,0.1298749742933519,Autumn,Min,26.4
+CEE,1999,1,26,Hydro-power,0.11915018189832145,Winter,Min,26.1
+CEE,2004,1,14,Hydro-power,0.1151625939796299,Winter,Med,14.1
+CEE,2010,3,26,Hydro-power,0.14665682247735798,Summer,Min,26.3
+CEE,2013,3,14,Hydro-power,0.12872911835657896,Summer,Med,14.3
+CEE,2014,1,1,Hydro-power,0.08944536888381455,Winter,Max,1.1
+CEE,2014,4,1,Hydro-power,0.09750933669569073,Autumn,Max,1.4
+CEE,2015,2,26,Hydro-power,0.13618725453211888,Spring,Min,26.2
+CWE,1990,2,14,Hydro-power,0.12100061319337878,Spring,Med,14.2
+CWE,1994,2,26,Hydro-power,0.13450596520062774,Spring,Min,26.2
+CWE,1994,3,14,Hydro-power,0.15781431249142,Summer,Med,14.3
+CWE,1996,2,1,Hydro-power,0.11470043080709795,Spring,Max,1.2
+CWE,2002,1,26,Hydro-power,0.11163976972705981,Winter,Min,26.1
+CWE,2002,4,14,Hydro-power,0.1269471172945786,Autumn,Med,14.4
+CWE,2006,3,1,Hydro-power,0.14086456472968875,Summer,Max,1.3
+CWE,2006,4,26,Hydro-power,0.12682378730230587,Autumn,Min,26.4
+CWE,2009,1,1,Hydro-power,0.09257120333962668,Winter,Max,1.1
+CWE,2012,1,14,Hydro-power,0.10164121151309466,Winter,Med,14.1
+CWE,2012,3,26,Hydro-power,0.17389625820580412,Summer,Min,26.3
+CWE,2014,4,1,Hydro-power,0.12400287999778478,Autumn,Max,1.4
+Iberia,1994,3,14,Hydro-power,0.15342512594974034,Summer,Med,14.3
+Iberia,1996,1,26,Hydro-power,0.2816686835601191,Winter,Min,26.1
+Iberia,1996,3,26,Hydro-power,0.22325962078779285,Summer,Min,26.3
+Iberia,1997,4,26,Hydro-power,0.20253271170104387,Autumn,Min,26.4
+Iberia,1999,1,14,Hydro-power,0.16720268815712527,Winter,Med,14.1
+Iberia,2001,2,26,Hydro-power,0.26006245252043014,Spring,Min,26.2
+Iberia,2001,4,14,Hydro-power,0.1195459087580552,Autumn,Med,14.4
+Iberia,2005,2,1,Hydro-power,0.11363366728383771,Spring,Max,1.2
+Iberia,2005,3,1,Hydro-power,0.09646717002723151,Summer,Max,1.3
+Iberia,2006,2,14,Hydro-power,0.17473705226848005,Spring,Med,14.2
+Iberia,2007,4,1,Hydro-power,0.10340310471700584,Autumn,Max,1.4
+Iberia,2012,1,1,Hydro-power,0.12778187911995123,Winter,Max,1.1
+Italy,1990,4,14,Hydro-power,0.20823969004237108,Autumn,Med,14.4
+Italy,1991,1,1,Hydro-power,0.1594023434421086,Winter,Max,1.1
+Italy,1996,2,1,Hydro-power,0.22429260705891005,Spring,Max,1.2
+Italy,2000,3,14,Hydro-power,0.24737151785006212,Summer,Med,14.3
+Italy,2000,4,26,Hydro-power,0.254874816480424,Autumn,Min,26.4
+Italy,2001,2,26,Hydro-power,0.29940425370785206,Spring,Min,26.2
+Italy,2001,3,26,Hydro-power,0.2823371852883086,Summer,Min,26.3
+Italy,2003,3,1,Hydro-power,0.20294771495372452,Summer,Max,1.3
+Italy,2007,1,14,Hydro-power,0.18267227790582258,Winter,Med,14.1
+Italy,2009,4,1,Hydro-power,0.18172930411699764,Autumn,Max,1.4
+Italy,2014,1,26,Hydro-power,0.21410600804208202,Winter,Min,26.1
+Italy,2015,2,14,Hydro-power,0.24820968155199435,Spring,Med,14.2
+Northern,1990,3,1,Hydro-power,0.5508073692594789,Summer,Max,1.3
+Northern,1996,2,1,Hydro-power,0.43784649034268164,Spring,Max,1.2
+Northern,1999,3,14,Hydro-power,0.7327830802182371,Summer,Med,14.3
+Northern,2000,3,26,Hydro-power,0.81559192250687,Summer,Min,26.3
+Northern,2000,4,26,Hydro-power,0.7485605029203286,Autumn,Min,26.4
+Northern,2002,2,26,Hydro-power,0.648515883413674,Spring,Min,26.2
+Northern,2005,2,14,Hydro-power,0.5863769573830672,Spring,Med,14.2
+Northern,2010,1,1,Hydro-power,0.5095061820113712,Winter,Max,1.1
+Northern,2010,4,1,Hydro-power,0.5139010044229667,Autumn,Max,1.4
+Northern,2012,1,14,Hydro-power,0.5793796758325472,Winter,Med,14.1
+Northern,2013,4,14,Hydro-power,0.610364829673997,Autumn,Med,14.4
+Northern,2015,1,26,Hydro-power,0.6029991686332853,Winter,Min,26.1
+SEE,1990,3,1,Hydro-power,0.14729293543387453,Summer,Max,1.3
+SEE,1990,4,1,Hydro-power,0.15221123144807758,Autumn,Max,1.4
+SEE,1992,1,1,Hydro-power,0.17191884693809859,Winter,Max,1.1
+SEE,1993,2,1,Hydro-power,0.21299081988070476,Spring,Max,1.2
+SEE,1995,3,14,Hydro-power,0.18720499638430071,Summer,Med,14.3
+SEE,1999,4,14,Hydro-power,0.17473533121932827,Autumn,Med,14.4
+SEE,2001,2,14,Hydro-power,0.2470674288586858,Spring,Med,14.2
+SEE,2007,1,14,Hydro-power,0.2042989839990274,Winter,Med,14.1
+SEE,2010,1,26,Hydro-power,0.25300417136297276,Winter,Min,26.1
+SEE,2010,3,26,Hydro-power,0.24136130232955474,Summer,Min,26.3
+SEE,2013,2,26,Hydro-power,0.3170083853158685,Spring,Min,26.2
+SEE,2014,4,26,Hydro-power,0.23261389186080778,Autumn,Min,26.4
+UK & Ireland,1990,1,26,Hydro-power,0.022533647198865272,Winter,Min,26.1
+UK & Ireland,1993,4,1,Hydro-power,0.018647672496927156,Autumn,Max,1.4
+UK & Ireland,1994,2,26,Hydro-power,0.022898852085604327,Spring,Min,26.2
+UK & Ireland,1995,4,14,Hydro-power,0.02175091063708915,Autumn,Med,14.4
+UK & Ireland,1997,3,14,Hydro-power,0.021540611980304956,Summer,Med,14.3
+UK & Ireland,1998,3,26,Hydro-power,0.020958998384437853,Summer,Min,26.3
+UK & Ireland,2000,3,1,Hydro-power,0.02048157528214981,Summer,Max,1.3
+UK & Ireland,2005,1,14,Hydro-power,0.020056623533197756,Winter,Med,14.1
+UK & Ireland,2005,2,14,Hydro-power,0.0219485640159053,Spring,Med,14.2
+UK & Ireland,2010,1,1,Hydro-power,0.015624190249905056,Winter,Max,1.1
+UK & Ireland,2010,2,1,Hydro-power,0.020994561757596224,Spring,Max,1.2
+UK & Ireland,2011,4,26,Hydro-power,0.024515741972211038,Autumn,Min,26.4
+Europe,1990,3,1,Solar & Wind,0.11068183934388023,Summer,Max,1.3
+Europe,1991,4,1,Solar & Wind,0.11923128180313948,Autumn,Max,1.4
+Europe,1995,2,14,Solar & Wind,0.14071470894890695,Spring,Med,14.2
+Europe,1996,2,1,Solar & Wind,0.10679913518351099,Spring,Max,1.2
+Europe,1998,3,26,Solar & Wind,0.12095057014531756,Summer,Min,26.3
+Europe,1999,3,14,Solar & Wind,0.10586816271343978,Summer,Med,14.3
+Europe,2000,2,26,Solar & Wind,0.12569109141761434,Spring,Min,26.2
+Europe,2000,4,26,Solar & Wind,0.12800346667571444,Autumn,Min,26.4
+Europe,2001,1,14,Solar & Wind,0.11613834271105454,Winter,Med,14.1
+Europe,2006,1,1,Solar & Wind,0.10388998596061332,Winter,Max,1.1
+Europe,2014,1,26,Solar & Wind,0.14236959417046938,Winter,Min,26.1
+Europe,2015,4,14,Solar & Wind,0.11355106435106219,Autumn,Med,14.4
+CEE,1990,3,1,Solar & Wind,0.04922679502058736,Summer,Max,1.3
+CEE,1991,2,1,Solar & Wind,0.05489138421514026,Spring,Max,1.2
+CEE,1997,4,14,Solar & Wind,0.060285755817819725,Autumn,Med,14.4
+CEE,1998,2,14,Solar & Wind,0.0694155801746231,Spring,Med,14.2
+CEE,1998,4,26,Solar & Wind,0.06761054163201714,Autumn,Min,26.4
+CEE,1999,1,26,Solar & Wind,0.0783010746217747,Winter,Min,26.1
+CEE,2004,1,14,Solar & Wind,0.06631073301645618,Winter,Med,14.1
+CEE,2010,3,26,Solar & Wind,0.046460281120591446,Summer,Min,26.3
+CEE,2013,3,14,Solar & Wind,0.044176396147349986,Summer,Med,14.3
+CEE,2014,1,1,Solar & Wind,0.07125689654362974,Winter,Max,1.1
+CEE,2014,4,1,Solar & Wind,0.04859849923387081,Autumn,Max,1.4
+CEE,2015,2,26,Solar & Wind,0.06739970421719488,Spring,Min,26.2
+CWE,1990,2,14,Solar & Wind,0.13747679096471602,Spring,Med,14.2
+CWE,1994,2,26,Solar & Wind,0.14669199456144036,Spring,Min,26.2
+CWE,1994,3,14,Solar & Wind,0.1162367287517306,Summer,Med,14.3
+CWE,1996,2,1,Solar & Wind,0.1041240795970233,Spring,Max,1.2
+CWE,2002,1,26,Solar & Wind,0.15250167708205864,Winter,Min,26.1
+CWE,2002,4,14,Solar & Wind,0.11344509363975748,Autumn,Med,14.4
+CWE,2006,3,1,Solar & Wind,0.10276936598396431,Summer,Max,1.3
+CWE,2006,4,26,Solar & Wind,0.14396527083250094,Autumn,Min,26.4
+CWE,2009,1,1,Solar & Wind,0.0979079762141532,Winter,Max,1.1
+CWE,2012,1,14,Solar & Wind,0.1327342685556316,Winter,Med,14.1
+CWE,2012,3,26,Solar & Wind,0.11793238317682166,Summer,Min,26.3
+CWE,2014,4,1,Solar & Wind,0.09805803636885817,Autumn,Max,1.4
+Iberia,1994,3,14,Solar & Wind,0.20595302878092409,Summer,Med,14.3
+Iberia,1996,1,26,Solar & Wind,0.32754377687890185,Winter,Min,26.1
+Iberia,1996,3,26,Solar & Wind,0.20810688153544485,Summer,Min,26.3
+Iberia,1997,4,26,Solar & Wind,0.26577947244054095,Autumn,Min,26.4
+Iberia,1999,1,14,Solar & Wind,0.2811193833423748,Winter,Med,14.1
+Iberia,2001,2,26,Solar & Wind,0.31566596665226504,Spring,Min,26.2
+Iberia,2001,4,14,Solar & Wind,0.2591888671626352,Autumn,Med,14.4
+Iberia,2005,2,1,Solar & Wind,0.26404948812158147,Spring,Max,1.2
+Iberia,2005,3,1,Solar & Wind,0.19855121881133447,Summer,Max,1.3
+Iberia,2006,2,14,Solar & Wind,0.27773694797436577,Spring,Med,14.2
+Iberia,2007,4,1,Solar & Wind,0.20282547890834324,Autumn,Max,1.4
+Iberia,2012,1,1,Solar & Wind,0.2404541494704382,Winter,Max,1.1
+Italy,1990,4,14,Solar & Wind,0.1320406227635556,Autumn,Med,14.4
+Italy,1991,1,1,Solar & Wind,0.1214511737529258,Winter,Max,1.1
+Italy,1996,2,1,Solar & Wind,0.15474960521220316,Spring,Max,1.2
+Italy,2000,3,14,Solar & Wind,0.1652939100231404,Summer,Med,14.3
+Italy,2000,4,26,Solar & Wind,0.1400503933082391,Autumn,Min,26.4
+Italy,2001,2,26,Solar & Wind,0.1733580135985185,Spring,Min,26.2
+Italy,2001,3,26,Solar & Wind,0.16997629377138412,Summer,Min,26.3
+Italy,2003,3,1,Solar & Wind,0.14415558488989655,Summer,Max,1.3
+Italy,2007,1,14,Solar & Wind,0.1274454208719156,Winter,Med,14.1
+Italy,2009,4,1,Solar & Wind,0.12623463940922894,Autumn,Max,1.4
+Italy,2014,1,26,Solar & Wind,0.12617693276175268,Winter,Min,26.1
+Italy,2015,2,14,Solar & Wind,0.17464367313144516,Spring,Med,14.2
+Northern,1990,3,1,Solar & Wind,0.05538999542009899,Summer,Max,1.3
+Northern,1996,2,1,Solar & Wind,0.0568517648474566,Spring,Max,1.2
+Northern,1999,3,14,Solar & Wind,0.04644132424403406,Summer,Med,14.3
+Northern,2000,3,26,Solar & Wind,0.05697734199810364,Summer,Min,26.3
+Northern,2000,4,26,Solar & Wind,0.07092250938164303,Autumn,Min,26.4
+Northern,2002,2,26,Solar & Wind,0.064677762882415,Spring,Min,26.2
+Northern,2005,2,14,Solar & Wind,0.056048751340782514,Spring,Med,14.2
+Northern,2010,1,1,Solar & Wind,0.056944046970342804,Winter,Max,1.1
+Northern,2010,4,1,Solar & Wind,0.07851351166715338,Autumn,Max,1.4
+Northern,2012,1,14,Solar & Wind,0.07300423542115068,Winter,Med,14.1
+Northern,2013,4,14,Solar & Wind,0.06884681464394204,Autumn,Med,14.4
+Northern,2015,1,26,Solar & Wind,0.09867116526958493,Winter,Min,26.1
+SEE,1990,3,1,Solar & Wind,0.06741503066098044,Summer,Max,1.3
+SEE,1990,4,1,Solar & Wind,0.0500827681761929,Autumn,Max,1.4
+SEE,1992,1,1,Solar & Wind,0.04842524194250556,Winter,Max,1.1
+SEE,1993,2,1,Solar & Wind,0.048624996284622315,Spring,Max,1.2
+SEE,1995,3,14,Solar & Wind,0.058290518565941994,Summer,Med,14.3
+SEE,1999,4,14,Solar & Wind,0.05036079282781559,Autumn,Med,14.4
+SEE,2001,2,14,Solar & Wind,0.05913373596107316,Spring,Med,14.2
+SEE,2007,1,14,Solar & Wind,0.04579754764837433,Winter,Med,14.1
+SEE,2010,1,26,Solar & Wind,0.04897424803480241,Winter,Min,26.1
+SEE,2010,3,26,Solar & Wind,0.055940903825735855,Summer,Min,26.3
+SEE,2013,2,26,Solar & Wind,0.056700124186974434,Spring,Min,26.2
+SEE,2014,4,26,Solar & Wind,0.045956005932917196,Autumn,Min,26.4
+UK & Ireland,1990,1,26,Solar & Wind,0.1779737157410717,Winter,Min,26.1
+UK & Ireland,1993,4,1,Solar & Wind,0.10567802796111161,Autumn,Max,1.4
+UK & Ireland,1994,2,26,Solar & Wind,0.17468996207249124,Spring,Min,26.2
+UK & Ireland,1995,4,14,Solar & Wind,0.13394668335557625,Autumn,Med,14.4
+UK & Ireland,1997,3,14,Solar & Wind,0.11979864753080614,Summer,Med,14.3
+UK & Ireland,1998,3,26,Solar & Wind,0.14041085950561216,Summer,Min,26.3
+UK & Ireland,2000,3,1,Solar & Wind,0.1071492494894408,Summer,Max,1.3
+UK & Ireland,2005,1,14,Solar & Wind,0.13925219953193366,Winter,Med,14.1
+UK & Ireland,2005,2,14,Solar & Wind,0.1362336467010826,Spring,Med,14.2
+UK & Ireland,2010,1,1,Solar & Wind,0.08176927386500624,Winter,Max,1.1
+UK & Ireland,2010,2,1,Solar & Wind,0.10387085946297721,Spring,Max,1.2
+UK & Ireland,2011,4,26,Solar & Wind,0.1562651212776696,Autumn,Min,26.4

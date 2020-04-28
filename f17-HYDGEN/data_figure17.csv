@@ -1,0 +1,365 @@
+label_tech,Location,id,OutputPower,label
+Run-of-river,CEE,1990,28.168800456584083,CEE 31.3 ± 2.3 TWh
+Run-of-river,CEE,1991,29.237950539036486,CEE 31.3 ± 2.3 TWh
+Run-of-river,CEE,1992,28.210266203229036,CEE 31.3 ± 2.3 TWh
+Run-of-river,CEE,1993,28.964830326299197,CEE 31.3 ± 2.3 TWh
+Run-of-river,CEE,1994,29.939053081536148,CEE 31.3 ± 2.3 TWh
+Run-of-river,CEE,1995,31.92293898791034,CEE 31.3 ± 2.3 TWh
+Run-of-river,CEE,1996,33.03754086574651,CEE 31.3 ± 2.3 TWh
+Run-of-river,CEE,1997,32.615804341734666,CEE 31.3 ± 2.3 TWh
+Run-of-river,CEE,1998,32.738718615546176,CEE 31.3 ± 2.3 TWh
+Run-of-river,CEE,1999,33.82397527413393,CEE 31.3 ± 2.3 TWh
+Run-of-river,CEE,2000,31.113299071376467,CEE 31.3 ± 2.3 TWh
+Run-of-river,CEE,2001,30.397978377888272,CEE 31.3 ± 2.3 TWh
+Run-of-river,CEE,2002,31.87626818470973,CEE 31.3 ± 2.3 TWh
+Run-of-river,CEE,2003,30.52118845739798,CEE 31.3 ± 2.3 TWh
+Run-of-river,CEE,2004,33.13505399811822,CEE 31.3 ± 2.3 TWh
+Run-of-river,CEE,2005,33.86129009795666,CEE 31.3 ± 2.3 TWh
+Run-of-river,CEE,2006,32.929440709026466,CEE 31.3 ± 2.3 TWh
+Run-of-river,CEE,2007,30.243330535811122,CEE 31.3 ± 2.3 TWh
+Run-of-river,CEE,2008,32.3051927292144,CEE 31.3 ± 2.3 TWh
+Run-of-river,CEE,2009,32.015685186674354,CEE 31.3 ± 2.3 TWh
+Run-of-river,CEE,2010,35.463046857982995,CEE 31.3 ± 2.3 TWh
+Run-of-river,CEE,2011,30.480715330126813,CEE 31.3 ± 2.3 TWh
+Run-of-river,CEE,2012,30.825459390544196,CEE 31.3 ± 2.3 TWh
+Run-of-river,CEE,2013,33.225045412311594,CEE 31.3 ± 2.3 TWh
+Run-of-river,CEE,2014,24.08209784116375,CEE 31.3 ± 2.3 TWh
+Run-of-river,CEE,2015,32.327672432243126,CEE 31.3 ± 2.3 TWh
+Run-of-river,CWE,1990,77.6795495929764,CWE 87.1 ± 5.3 TWh
+Run-of-river,CWE,1991,80.59246712285801,CWE 87.1 ± 5.3 TWh
+Run-of-river,CWE,1992,85.86704146471273,CWE 87.1 ± 5.3 TWh
+Run-of-river,CWE,1993,84.68038572686285,CWE 87.1 ± 5.3 TWh
+Run-of-river,CWE,1994,92.46972181959468,CWE 87.1 ± 5.3 TWh
+Run-of-river,CWE,1995,88.57153099732881,CWE 87.1 ± 5.3 TWh
+Run-of-river,CWE,1996,86.31673734107004,CWE 87.1 ± 5.3 TWh
+Run-of-river,CWE,1997,86.0114669121234,CWE 87.1 ± 5.3 TWh
+Run-of-river,CWE,1998,88.84513403405181,CWE 87.1 ± 5.3 TWh
+Run-of-river,CWE,1999,95.21774376884355,CWE 87.1 ± 5.3 TWh
+Run-of-river,CWE,2000,92.8449033645902,CWE 87.1 ± 5.3 TWh
+Run-of-river,CWE,2001,93.49964707443213,CWE 87.1 ± 5.3 TWh
+Run-of-river,CWE,2002,89.88810171381141,CWE 87.1 ± 5.3 TWh
+Run-of-river,CWE,2003,80.34400589542055,CWE 87.1 ± 5.3 TWh
+Run-of-river,CWE,2004,85.82437406590465,CWE 87.1 ± 5.3 TWh
+Run-of-river,CWE,2005,79.54176824476374,CWE 87.1 ± 5.3 TWh
+Run-of-river,CWE,2006,84.7348684474871,CWE 87.1 ± 5.3 TWh
+Run-of-river,CWE,2007,84.6556393048674,CWE 87.1 ± 5.3 TWh
+Run-of-river,CWE,2008,90.89370875564,CWE 87.1 ± 5.3 TWh
+Run-of-river,CWE,2009,86.38789349232027,CWE 87.1 ± 5.3 TWh
+Run-of-river,CWE,2010,87.60064050882166,CWE 87.1 ± 5.3 TWh
+Run-of-river,CWE,2011,77.41815017181719,CWE 87.1 ± 5.3 TWh
+Run-of-river,CWE,2012,90.97520358702344,CWE 87.1 ± 5.3 TWh
+Run-of-river,CWE,2013,97.5966853992381,CWE 87.1 ± 5.3 TWh
+Run-of-river,CWE,2014,91.74610225715381,CWE 87.1 ± 5.3 TWh
+Run-of-river,CWE,2015,83.24315336090966,CWE 87.1 ± 5.3 TWh
+Run-of-river,Iberia,1990,12.203076446530403,Iberia 14.8 ± 3.6 TWh
+Run-of-river,Iberia,1991,15.378812737995382,Iberia 14.8 ± 3.6 TWh
+Run-of-river,Iberia,1992,10.20792395118058,Iberia 14.8 ± 3.6 TWh
+Run-of-river,Iberia,1993,13.45888344125174,Iberia 14.8 ± 3.6 TWh
+Run-of-river,Iberia,1994,14.091215836523368,Iberia 14.8 ± 3.6 TWh
+Run-of-river,Iberia,1995,12.725660487676489,Iberia 14.8 ± 3.6 TWh
+Run-of-river,Iberia,1996,20.687080473545045,Iberia 14.8 ± 3.6 TWh
+Run-of-river,Iberia,1997,18.99704052304849,Iberia 14.8 ± 3.6 TWh
+Run-of-river,Iberia,1998,15.351363067755843,Iberia 14.8 ± 3.6 TWh
+Run-of-river,Iberia,1999,13.421408650542023,Iberia 14.8 ± 3.6 TWh
+Run-of-river,Iberia,2000,15.867975585330747,Iberia 14.8 ± 3.6 TWh
+Run-of-river,Iberia,2001,18.694685214044963,Iberia 14.8 ± 3.6 TWh
+Run-of-river,Iberia,2002,14.780327138688563,Iberia 14.8 ± 3.6 TWh
+Run-of-river,Iberia,2003,19.301093523228303,Iberia 14.8 ± 3.6 TWh
+Run-of-river,Iberia,2004,13.321692888848977,Iberia 14.8 ± 3.6 TWh
+Run-of-river,Iberia,2005,8.378168228271194,Iberia 14.8 ± 3.6 TWh
+Run-of-river,Iberia,2006,15.745794247727298,Iberia 14.8 ± 3.6 TWh
+Run-of-river,Iberia,2007,12.026901657602279,Iberia 14.8 ± 3.6 TWh
+Run-of-river,Iberia,2008,12.015958004881048,Iberia 14.8 ± 3.6 TWh
+Run-of-river,Iberia,2009,13.063659034347122,Iberia 14.8 ± 3.6 TWh
+Run-of-river,Iberia,2010,21.59320160809782,Iberia 14.8 ± 3.6 TWh
+Run-of-river,Iberia,2011,14.20824166277632,Iberia 14.8 ± 3.6 TWh
+Run-of-river,Iberia,2012,8.491992778016042,Iberia 14.8 ± 3.6 TWh
+Run-of-river,Iberia,2013,19.391757208920197,Iberia 14.8 ± 3.6 TWh
+Run-of-river,Iberia,2014,19.900973526653466,Iberia 14.8 ± 3.6 TWh
+Run-of-river,Iberia,2015,11.770120794518117,Iberia 14.8 ± 3.6 TWh
+Run-of-river,Italy,1990,31.990009575657027,Italy 35.3 ± 2.8 TWh
+Run-of-river,Italy,1991,35.299561922719725,Italy 35.3 ± 2.8 TWh
+Run-of-river,Italy,1992,38.08641725025204,Italy 35.3 ± 2.8 TWh
+Run-of-river,Italy,1993,35.74154699354688,Italy 35.3 ± 2.8 TWh
+Run-of-river,Italy,1994,37.9798039865574,Italy 35.3 ± 2.8 TWh
+Run-of-river,Italy,1995,34.088780369130426,Italy 35.3 ± 2.8 TWh
+Run-of-river,Italy,1996,34.064177850464716,Italy 35.3 ± 2.8 TWh
+Run-of-river,Italy,1997,33.923280362824364,Italy 35.3 ± 2.8 TWh
+Run-of-river,Italy,1998,35.34370619681746,Italy 35.3 ± 2.8 TWh
+Run-of-river,Italy,1999,36.440150320249145,Italy 35.3 ± 2.8 TWh
+Run-of-river,Italy,2000,38.27109340412104,Italy 35.3 ± 2.8 TWh
+Run-of-river,Italy,2001,39.963413238381776,Italy 35.3 ± 2.8 TWh
+Run-of-river,Italy,2002,37.57671952829356,Italy 35.3 ± 2.8 TWh
+Run-of-river,Italy,2003,30.991686108842693,Italy 35.3 ± 2.8 TWh
+Run-of-river,Italy,2004,35.05477511105422,Italy 35.3 ± 2.8 TWh
+Run-of-river,Italy,2005,31.571194657507498,Italy 35.3 ± 2.8 TWh
+Run-of-river,Italy,2006,34.17617459115464,Italy 35.3 ± 2.8 TWh
+Run-of-river,Italy,2007,32.76225525008997,Italy 35.3 ± 2.8 TWh
+Run-of-river,Italy,2008,36.5039553901564,Italy 35.3 ± 2.8 TWh
+Run-of-river,Italy,2009,34.9242759404838,Italy 35.3 ± 2.8 TWh
+Run-of-river,Italy,2010,36.62585431913918,Italy 35.3 ± 2.8 TWh
+Run-of-river,Italy,2011,33.53330524972147,Italy 35.3 ± 2.8 TWh
+Run-of-river,Italy,2012,30.750850670543198,Italy 35.3 ± 2.8 TWh
+Run-of-river,Italy,2013,37.939259468005986,Italy 35.3 ± 2.8 TWh
+Run-of-river,Italy,2014,41.74566455516526,Italy 35.3 ± 2.8 TWh
+Run-of-river,Italy,2015,32.25665855489467,Italy 35.3 ± 2.8 TWh
+Run-of-river,Northern,1990,28.273375563286326,Northern 31.7 ± 2.9 TWh
+Run-of-river,Northern,1991,29.895586900452898,Northern 31.7 ± 2.9 TWh
+Run-of-river,Northern,1992,32.51643096217207,Northern 31.7 ± 2.9 TWh
+Run-of-river,Northern,1993,31.87614888465661,Northern 31.7 ± 2.9 TWh
+Run-of-river,Northern,1994,31.889601791067562,Northern 31.7 ± 2.9 TWh
+Run-of-river,Northern,1995,30.79292491091917,Northern 31.7 ± 2.9 TWh
+Run-of-river,Northern,1996,32.15193334910483,Northern 31.7 ± 2.9 TWh
+Run-of-river,Northern,1997,30.886859875996763,Northern 31.7 ± 2.9 TWh
+Run-of-river,Northern,1998,32.05405402949297,Northern 31.7 ± 2.9 TWh
+Run-of-river,Northern,1999,31.251314178399635,Northern 31.7 ± 2.9 TWh
+Run-of-river,Northern,2000,34.873504943586376,Northern 31.7 ± 2.9 TWh
+Run-of-river,Northern,2001,33.300449447958414,Northern 31.7 ± 2.9 TWh
+Run-of-river,Northern,2002,30.588484746628108,Northern 31.7 ± 2.9 TWh
+Run-of-river,Northern,2003,30.470056504070754,Northern 31.7 ± 2.9 TWh
+Run-of-river,Northern,2004,31.592323328124174,Northern 31.7 ± 2.9 TWh
+Run-of-river,Northern,2005,33.47740087729148,Northern 31.7 ± 2.9 TWh
+Run-of-river,Northern,2006,31.83854693464859,Northern 31.7 ± 2.9 TWh
+Run-of-river,Northern,2007,31.664986841669403,Northern 31.7 ± 2.9 TWh
+Run-of-river,Northern,2008,34.89563711797312,Northern 31.7 ± 2.9 TWh
+Run-of-river,Northern,2009,32.122559141824155,Northern 31.7 ± 2.9 TWh
+Run-of-river,Northern,2010,32.77727065127117,Northern 31.7 ± 2.9 TWh
+Run-of-river,Northern,2011,31.529960767638457,Northern 31.7 ± 2.9 TWh
+Run-of-river,Northern,2012,36.30013039632784,Northern 31.7 ± 2.9 TWh
+Run-of-river,Northern,2013,31.81706331702416,Northern 31.7 ± 2.9 TWh
+Run-of-river,Northern,2014,20.719475555751913,Northern 31.7 ± 2.9 TWh
+Run-of-river,Northern,2015,35.55830233360708,Northern 31.7 ± 2.9 TWh
+Run-of-river,SEE,1990,9.466794728807455,SEE 12.9 ± 2.2 TWh
+Run-of-river,SEE,1991,10.888959309738903,SEE 12.9 ± 2.2 TWh
+Run-of-river,SEE,1992,9.246259090611066,SEE 12.9 ± 2.2 TWh
+Run-of-river,SEE,1993,9.466296533514528,SEE 12.9 ± 2.2 TWh
+Run-of-river,SEE,1994,10.968649587888857,SEE 12.9 ± 2.2 TWh
+Run-of-river,SEE,1995,12.462368856400287,SEE 12.9 ± 2.2 TWh
+Run-of-river,SEE,1996,13.284947502954989,SEE 12.9 ± 2.2 TWh
+Run-of-river,SEE,1997,12.076210772323748,SEE 12.9 ± 2.2 TWh
+Run-of-river,SEE,1998,12.166728556377828,SEE 12.9 ± 2.2 TWh
+Run-of-river,SEE,1999,13.468203351246032,SEE 12.9 ± 2.2 TWh
+Run-of-river,SEE,2000,11.700783028997044,SEE 12.9 ± 2.2 TWh
+Run-of-river,SEE,2001,10.868771512997284,SEE 12.9 ± 2.2 TWh
+Run-of-river,SEE,2002,12.994256308221193,SEE 12.9 ± 2.2 TWh
+Run-of-river,SEE,2003,12.583190863203344,SEE 12.9 ± 2.2 TWh
+Run-of-river,SEE,2004,14.499231216436089,SEE 12.9 ± 2.2 TWh
+Run-of-river,SEE,2005,14.654860444061693,SEE 12.9 ± 2.2 TWh
+Run-of-river,SEE,2006,14.765686734510675,SEE 12.9 ± 2.2 TWh
+Run-of-river,SEE,2007,12.346605504826302,SEE 12.9 ± 2.2 TWh
+Run-of-river,SEE,2008,13.114002429935969,SEE 12.9 ± 2.2 TWh
+Run-of-river,SEE,2009,14.959862260517307,SEE 12.9 ± 2.2 TWh
+Run-of-river,SEE,2010,17.98079445804796,SEE 12.9 ± 2.2 TWh
+Run-of-river,SEE,2011,11.359257463878356,SEE 12.9 ± 2.2 TWh
+Run-of-river,SEE,2012,12.83062744593959,SEE 12.9 ± 2.2 TWh
+Run-of-river,SEE,2013,15.799977035101556,SEE 12.9 ± 2.2 TWh
+Run-of-river,SEE,2014,16.455303041042587,SEE 12.9 ± 2.2 TWh
+Run-of-river,SEE,2015,13.966074847882089,SEE 12.9 ± 2.2 TWh
+Run-of-river,UK & Ireland,1990,2.8931169056779376,UK & Ireland 3.5 ± 0.6 TWh
+Run-of-river,UK & Ireland,1991,2.6800947056306588,UK & Ireland 3.5 ± 0.6 TWh
+Run-of-river,UK & Ireland,1992,3.029908344804897,UK & Ireland 3.5 ± 0.6 TWh
+Run-of-river,UK & Ireland,1993,2.969929197814261,UK & Ireland 3.5 ± 0.6 TWh
+Run-of-river,UK & Ireland,1994,3.399257202105637,UK & Ireland 3.5 ± 0.6 TWh
+Run-of-river,UK & Ireland,1995,3.133523484530076,UK & Ireland 3.5 ± 0.6 TWh
+Run-of-river,UK & Ireland,1996,2.5834501959176297,UK & Ireland 3.5 ± 0.6 TWh
+Run-of-river,UK & Ireland,1997,2.578927230498536,UK & Ireland 3.5 ± 0.6 TWh
+Run-of-river,UK & Ireland,1998,3.9096873924538182,UK & Ireland 3.5 ± 0.6 TWh
+Run-of-river,UK & Ireland,1999,3.8324173354140747,UK & Ireland 3.5 ± 0.6 TWh
+Run-of-river,UK & Ireland,2000,4.26958103309,UK & Ireland 3.5 ± 0.6 TWh
+Run-of-river,UK & Ireland,2001,2.9184530589743134,UK & Ireland 3.5 ± 0.6 TWh
+Run-of-river,UK & Ireland,2002,3.9822444347929316,UK & Ireland 3.5 ± 0.6 TWh
+Run-of-river,UK & Ireland,2003,2.655983042008573,UK & Ireland 3.5 ± 0.6 TWh
+Run-of-river,UK & Ireland,2004,3.606608719691373,UK & Ireland 3.5 ± 0.6 TWh
+Run-of-river,UK & Ireland,2005,3.2863921958384417,UK & Ireland 3.5 ± 0.6 TWh
+Run-of-river,UK & Ireland,2006,3.5937648080860893,UK & Ireland 3.5 ± 0.6 TWh
+Run-of-river,UK & Ireland,2007,3.6741323041953544,UK & Ireland 3.5 ± 0.6 TWh
+Run-of-river,UK & Ireland,2008,4.327429569864761,UK & Ireland 3.5 ± 0.6 TWh
+Run-of-river,UK & Ireland,2009,3.9684401209103273,UK & Ireland 3.5 ± 0.6 TWh
+Run-of-river,UK & Ireland,2010,2.9929275531582165,UK & Ireland 3.5 ± 0.6 TWh
+Run-of-river,UK & Ireland,2011,3.74513335764758,UK & Ireland 3.5 ± 0.6 TWh
+Run-of-river,UK & Ireland,2012,4.256984702271214,UK & Ireland 3.5 ± 0.6 TWh
+Run-of-river,UK & Ireland,2013,3.625862018936829,UK & Ireland 3.5 ± 0.6 TWh
+Run-of-river,UK & Ireland,2014,4.679206652878233,UK & Ireland 3.5 ± 0.6 TWh
+Run-of-river,UK & Ireland,2015,4.40088550959571,UK & Ireland 3.5 ± 0.6 TWh
+Storage and Pumping,CEE,1990,9.99073426853915,CEE 12.0 ± 1.2 TWh
+Storage and Pumping,CEE,1991,10.32901198491608,CEE 12.0 ± 1.2 TWh
+Storage and Pumping,CEE,1992,9.85129272485337,CEE 12.0 ± 1.2 TWh
+Storage and Pumping,CEE,1993,10.292001311964272,CEE 12.0 ± 1.2 TWh
+Storage and Pumping,CEE,1994,10.848388839425938,CEE 12.0 ± 1.2 TWh
+Storage and Pumping,CEE,1995,12.115202573853658,CEE 12.0 ± 1.2 TWh
+Storage and Pumping,CEE,1996,12.584176876042513,CEE 12.0 ± 1.2 TWh
+Storage and Pumping,CEE,1997,12.599583953714458,CEE 12.0 ± 1.2 TWh
+Storage and Pumping,CEE,1998,12.679835549520766,CEE 12.0 ± 1.2 TWh
+Storage and Pumping,CEE,1999,13.297729811331354,CEE 12.0 ± 1.2 TWh
+Storage and Pumping,CEE,2000,11.46297496785575,CEE 12.0 ± 1.2 TWh
+Storage and Pumping,CEE,2001,11.051602076525564,CEE 12.0 ± 1.2 TWh
+Storage and Pumping,CEE,2002,11.91389037104025,CEE 12.0 ± 1.2 TWh
+Storage and Pumping,CEE,2003,11.55708235903252,CEE 12.0 ± 1.2 TWh
+Storage and Pumping,CEE,2004,12.716753411956981,CEE 12.0 ± 1.2 TWh
+Storage and Pumping,CEE,2005,13.423231979108342,CEE 12.0 ± 1.2 TWh
+Storage and Pumping,CEE,2006,12.890008832752681,CEE 12.0 ± 1.2 TWh
+Storage and Pumping,CEE,2007,11.215736150816458,CEE 12.0 ± 1.2 TWh
+Storage and Pumping,CEE,2008,12.273330158408516,CEE 12.0 ± 1.2 TWh
+Storage and Pumping,CEE,2009,12.268461458724252,CEE 12.0 ± 1.2 TWh
+Storage and Pumping,CEE,2010,14.508148595908196,CEE 12.0 ± 1.2 TWh
+Storage and Pumping,CEE,2011,11.734436804455296,CEE 12.0 ± 1.2 TWh
+Storage and Pumping,CEE,2012,11.5445041569711,CEE 12.0 ± 1.2 TWh
+Storage and Pumping,CEE,2013,12.93433188017477,CEE 12.0 ± 1.2 TWh
+Storage and Pumping,CEE,2014,13.649619243533909,CEE 12.0 ± 1.2 TWh
+Storage and Pumping,CEE,2015,12.831546042637637,CEE 12.0 ± 1.2 TWh
+Storage and Pumping,CWE,1990,84.98357014579227,CWE 90.5 ± 4.0 TWh
+Storage and Pumping,CWE,1991,84.44461414420371,CWE 90.5 ± 4.0 TWh
+Storage and Pumping,CWE,1992,90.25922620068074,CWE 90.5 ± 4.0 TWh
+Storage and Pumping,CWE,1993,88.67140357344365,CWE 90.5 ± 4.0 TWh
+Storage and Pumping,CWE,1994,96.0207192416122,CWE 90.5 ± 4.0 TWh
+Storage and Pumping,CWE,1995,90.99503533287579,CWE 90.5 ± 4.0 TWh
+Storage and Pumping,CWE,1996,88.32895381139159,CWE 90.5 ± 4.0 TWh
+Storage and Pumping,CWE,1997,88.67744064121014,CWE 90.5 ± 4.0 TWh
+Storage and Pumping,CWE,1998,91.94526223128776,CWE 90.5 ± 4.0 TWh
+Storage and Pumping,CWE,1999,94.585341142924,CWE 90.5 ± 4.0 TWh
+Storage and Pumping,CWE,2000,95.52003948406227,CWE 90.5 ± 4.0 TWh
+Storage and Pumping,CWE,2001,95.9644099023702,CWE 90.5 ± 4.0 TWh
+Storage and Pumping,CWE,2002,91.4683416454703,CWE 90.5 ± 4.0 TWh
+Storage and Pumping,CWE,2003,86.07590043064734,CWE 90.5 ± 4.0 TWh
+Storage and Pumping,CWE,2004,88.55648785904918,CWE 90.5 ± 4.0 TWh
+Storage and Pumping,CWE,2005,84.89883997727544,CWE 90.5 ± 4.0 TWh
+Storage and Pumping,CWE,2006,88.80850214580583,CWE 90.5 ± 4.0 TWh
+Storage and Pumping,CWE,2007,89.44111512133424,CWE 90.5 ± 4.0 TWh
+Storage and Pumping,CWE,2008,91.5320595630494,CWE 90.5 ± 4.0 TWh
+Storage and Pumping,CWE,2009,90.35191533083221,CWE 90.5 ± 4.0 TWh
+Storage and Pumping,CWE,2010,91.59639244295491,CWE 90.5 ± 4.0 TWh
+Storage and Pumping,CWE,2011,84.6168471703349,CWE 90.5 ± 4.0 TWh
+Storage and Pumping,CWE,2012,94.1919918684535,CWE 90.5 ± 4.0 TWh
+Storage and Pumping,CWE,2013,99.35068436680464,CWE 90.5 ± 4.0 TWh
+Storage and Pumping,CWE,2014,94.67295084012888,CWE 90.5 ± 4.0 TWh
+Storage and Pumping,CWE,2015,87.99339562230438,CWE 90.5 ± 4.0 TWh
+Storage and Pumping,Iberia,1990,32.65206438455615,Iberia 38.2 ± 7.3 TWh
+Storage and Pumping,Iberia,1991,38.96510314651806,Iberia 38.2 ± 7.3 TWh
+Storage and Pumping,Iberia,1992,29.883890818754413,Iberia 38.2 ± 7.3 TWh
+Storage and Pumping,Iberia,1993,34.14070342825194,Iberia 38.2 ± 7.3 TWh
+Storage and Pumping,Iberia,1994,35.87617190098218,Iberia 38.2 ± 7.3 TWh
+Storage and Pumping,Iberia,1995,34.01519594278793,Iberia 38.2 ± 7.3 TWh
+Storage and Pumping,Iberia,1996,51.49410889026556,Iberia 38.2 ± 7.3 TWh
+Storage and Pumping,Iberia,1997,45.971445972492944,Iberia 38.2 ± 7.3 TWh
+Storage and Pumping,Iberia,1998,37.63669182808353,Iberia 38.2 ± 7.3 TWh
+Storage and Pumping,Iberia,1999,34.606122604863934,Iberia 38.2 ± 7.3 TWh
+Storage and Pumping,Iberia,2000,39.055400103429044,Iberia 38.2 ± 7.3 TWh
+Storage and Pumping,Iberia,2001,44.97247438428041,Iberia 38.2 ± 7.3 TWh
+Storage and Pumping,Iberia,2002,37.64019983180317,Iberia 38.2 ± 7.3 TWh
+Storage and Pumping,Iberia,2003,46.75747535583543,Iberia 38.2 ± 7.3 TWh
+Storage and Pumping,Iberia,2004,35.01219243513751,Iberia 38.2 ± 7.3 TWh
+Storage and Pumping,Iberia,2005,26.410490181082668,Iberia 38.2 ± 7.3 TWh
+Storage and Pumping,Iberia,2006,38.753483493019154,Iberia 38.2 ± 7.3 TWh
+Storage and Pumping,Iberia,2007,32.47104325028714,Iberia 38.2 ± 7.3 TWh
+Storage and Pumping,Iberia,2008,33.23528856147657,Iberia 38.2 ± 7.3 TWh
+Storage and Pumping,Iberia,2009,36.803808643727116,Iberia 38.2 ± 7.3 TWh
+Storage and Pumping,Iberia,2010,53.27755032727466,Iberia 38.2 ± 7.3 TWh
+Storage and Pumping,Iberia,2011,35.97224939417714,Iberia 38.2 ± 7.3 TWh
+Storage and Pumping,Iberia,2012,26.771551268044654,Iberia 38.2 ± 7.3 TWh
+Storage and Pumping,Iberia,2013,48.530175277480524,Iberia 38.2 ± 7.3 TWh
+Storage and Pumping,Iberia,2014,48.57900450807302,Iberia 38.2 ± 7.3 TWh
+Storage and Pumping,Iberia,2015,32.7707187465265,Iberia 38.2 ± 7.3 TWh
+Storage and Pumping,Italy,1990,22.45698344250879,Italy 22.3 ± 0.3 TWh
+Storage and Pumping,Italy,1991,22.31852676129583,Italy 22.3 ± 0.3 TWh
+Storage and Pumping,Italy,1992,22.343931164720928,Italy 22.3 ± 0.3 TWh
+Storage and Pumping,Italy,1993,22.292576174216503,Italy 22.3 ± 0.3 TWh
+Storage and Pumping,Italy,1994,22.74372213491203,Italy 22.3 ± 0.3 TWh
+Storage and Pumping,Italy,1995,22.59380812253297,Italy 22.3 ± 0.3 TWh
+Storage and Pumping,Italy,1996,22.02539491239596,Italy 22.3 ± 0.3 TWh
+Storage and Pumping,Italy,1997,22.678922838204322,Italy 22.3 ± 0.3 TWh
+Storage and Pumping,Italy,1998,22.37914808163098,Italy 22.3 ± 0.3 TWh
+Storage and Pumping,Italy,1999,22.448318718407336,Italy 22.3 ± 0.3 TWh
+Storage and Pumping,Italy,2000,22.69571390102525,Italy 22.3 ± 0.3 TWh
+Storage and Pumping,Italy,2001,22.680808009906126,Italy 22.3 ± 0.3 TWh
+Storage and Pumping,Italy,2002,22.82833246235846,Italy 22.3 ± 0.3 TWh
+Storage and Pumping,Italy,2003,22.304969376056867,Italy 22.3 ± 0.3 TWh
+Storage and Pumping,Italy,2004,22.302770961525326,Italy 22.3 ± 0.3 TWh
+Storage and Pumping,Italy,2005,21.99958509204281,Italy 22.3 ± 0.3 TWh
+Storage and Pumping,Italy,2006,22.069123286340925,Italy 22.3 ± 0.3 TWh
+Storage and Pumping,Italy,2007,22.186057040629393,Italy 22.3 ± 0.3 TWh
+Storage and Pumping,Italy,2008,22.42564394365042,Italy 22.3 ± 0.3 TWh
+Storage and Pumping,Italy,2009,22.224991072972625,Italy 22.3 ± 0.3 TWh
+Storage and Pumping,Italy,2010,22.079402661784567,Italy 22.3 ± 0.3 TWh
+Storage and Pumping,Italy,2011,22.162802730201626,Italy 22.3 ± 0.3 TWh
+Storage and Pumping,Italy,2012,21.85697307548923,Italy 22.3 ± 0.3 TWh
+Storage and Pumping,Italy,2013,22.14349724583947,Italy 22.3 ± 0.3 TWh
+Storage and Pumping,Italy,2014,22.430355161644375,Italy 22.3 ± 0.3 TWh
+Storage and Pumping,Italy,2015,22.151197566585626,Italy 22.3 ± 0.3 TWh
+Storage and Pumping,Northern,1990,206.39900908537064,Northern 233.6 ± 22.3 TWh
+Storage and Pumping,Northern,1991,195.18502113477595,Northern 233.6 ± 22.3 TWh
+Storage and Pumping,Northern,1992,245.8860172831099,Northern 233.6 ± 22.3 TWh
+Storage and Pumping,Northern,1993,256.3082727586083,Northern 233.6 ± 22.3 TWh
+Storage and Pumping,Northern,1994,214.7042429119158,Northern 233.6 ± 22.3 TWh
+Storage and Pumping,Northern,1995,238.96353379208162,Northern 233.6 ± 22.3 TWh
+Storage and Pumping,Northern,1996,185.90452461274813,Northern 233.6 ± 22.3 TWh
+Storage and Pumping,Northern,1997,233.43066901316453,Northern 233.6 ± 22.3 TWh
+Storage and Pumping,Northern,1998,254.0816233509806,Northern 233.6 ± 22.3 TWh
+Storage and Pumping,Northern,1999,247.0493819383257,Northern 233.6 ± 22.3 TWh
+Storage and Pumping,Northern,2000,270.7564602845927,Northern 233.6 ± 22.3 TWh
+Storage and Pumping,Northern,2001,257.30697057305935,Northern 233.6 ± 22.3 TWh
+Storage and Pumping,Northern,2002,240.01047553215494,Northern 233.6 ± 22.3 TWh
+Storage and Pumping,Northern,2003,225.28252801344522,Northern 233.6 ± 22.3 TWh
+Storage and Pumping,Northern,2004,238.54143037650107,Northern 233.6 ± 22.3 TWh
+Storage and Pumping,Northern,2005,254.24214472388368,Northern 233.6 ± 22.3 TWh
+Storage and Pumping,Northern,2006,214.37920870751125,Northern 233.6 ± 22.3 TWh
+Storage and Pumping,Northern,2007,253.56550855244325,Northern 233.6 ± 22.3 TWh
+Storage and Pumping,Northern,2008,228.33324516910832,Northern 233.6 ± 22.3 TWh
+Storage and Pumping,Northern,2009,221.21781766960356,Northern 233.6 ± 22.3 TWh
+Storage and Pumping,Northern,2010,192.33924643850446,Northern 233.6 ± 22.3 TWh
+Storage and Pumping,Northern,2011,251.12496302297134,Northern 233.6 ± 22.3 TWh
+Storage and Pumping,Northern,2012,244.87484249081993,Northern 233.6 ± 22.3 TWh
+Storage and Pumping,Northern,2013,218.985882159807,Northern 233.6 ± 22.3 TWh
+Storage and Pumping,Northern,2014,230.30088123974986,Northern 233.6 ± 22.3 TWh
+Storage and Pumping,Northern,2015,255.3940509792916,Northern 233.6 ± 22.3 TWh
+Storage and Pumping,SEE,1990,24.916302057848466,SEE 27.4 ± 1.5 TWh
+Storage and Pumping,SEE,1991,25.925655209842418,SEE 27.4 ± 1.5 TWh
+Storage and Pumping,SEE,1992,25.428394177976212,SEE 27.4 ± 1.5 TWh
+Storage and Pumping,SEE,1993,25.284303263173058,SEE 27.4 ± 1.5 TWh
+Storage and Pumping,SEE,1994,26.409349328698635,SEE 27.4 ± 1.5 TWh
+Storage and Pumping,SEE,1995,27.402562597817177,SEE 27.4 ± 1.5 TWh
+Storage and Pumping,SEE,1996,28.14555256194152,SEE 27.4 ± 1.5 TWh
+Storage and Pumping,SEE,1997,26.58483634004591,SEE 27.4 ± 1.5 TWh
+Storage and Pumping,SEE,1998,26.980957076885478,SEE 27.4 ± 1.5 TWh
+Storage and Pumping,SEE,1999,27.38375045494463,SEE 27.4 ± 1.5 TWh
+Storage and Pumping,SEE,2000,26.538430826434343,SEE 27.4 ± 1.5 TWh
+Storage and Pumping,SEE,2001,26.606768416758072,SEE 27.4 ± 1.5 TWh
+Storage and Pumping,SEE,2002,27.21041799333615,SEE 27.4 ± 1.5 TWh
+Storage and Pumping,SEE,2003,27.00035401051803,SEE 27.4 ± 1.5 TWh
+Storage and Pumping,SEE,2004,28.270724691199348,SEE 27.4 ± 1.5 TWh
+Storage and Pumping,SEE,2005,28.513560977797347,SEE 27.4 ± 1.5 TWh
+Storage and Pumping,SEE,2006,28.634034410286084,SEE 27.4 ± 1.5 TWh
+Storage and Pumping,SEE,2007,26.81470931622856,SEE 27.4 ± 1.5 TWh
+Storage and Pumping,SEE,2008,27.5326792894165,SEE 27.4 ± 1.5 TWh
+Storage and Pumping,SEE,2009,28.84895232805806,SEE 27.4 ± 1.5 TWh
+Storage and Pumping,SEE,2010,31.34335382006343,SEE 27.4 ± 1.5 TWh
+Storage and Pumping,SEE,2011,25.73196844641489,SEE 27.4 ± 1.5 TWh
+Storage and Pumping,SEE,2012,27.302043349793813,SEE 27.4 ± 1.5 TWh
+Storage and Pumping,SEE,2013,29.324924875981335,SEE 27.4 ± 1.5 TWh
+Storage and Pumping,SEE,2014,30.450889836907542,SEE 27.4 ± 1.5 TWh
+Storage and Pumping,SEE,2015,28.113564431796352,SEE 27.4 ± 1.5 TWh
+Storage and Pumping,UK & Ireland,1990,4.702556000305335,UK & Ireland 4.7 ± 0.2 TWh
+Storage and Pumping,UK & Ireland,1991,4.5775270320577715,UK & Ireland 4.7 ± 0.2 TWh
+Storage and Pumping,UK & Ireland,1992,4.710645179827215,UK & Ireland 4.7 ± 0.2 TWh
+Storage and Pumping,UK & Ireland,1993,4.698787942336611,UK & Ireland 4.7 ± 0.2 TWh
+Storage and Pumping,UK & Ireland,1994,4.518232117530493,UK & Ireland 4.7 ± 0.2 TWh
+Storage and Pumping,UK & Ireland,1995,4.518359968119063,UK & Ireland 4.7 ± 0.2 TWh
+Storage and Pumping,UK & Ireland,1996,4.865051182278708,UK & Ireland 4.7 ± 0.2 TWh
+Storage and Pumping,UK & Ireland,1997,4.675190335637023,UK & Ireland 4.7 ± 0.2 TWh
+Storage and Pumping,UK & Ireland,1998,4.4084803581065355,UK & Ireland 4.7 ± 0.2 TWh
+Storage and Pumping,UK & Ireland,1999,4.634049253828861,UK & Ireland 4.7 ± 0.2 TWh
+Storage and Pumping,UK & Ireland,2000,4.764826721205734,UK & Ireland 4.7 ± 0.2 TWh
+Storage and Pumping,UK & Ireland,2001,4.832026952956052,UK & Ireland 4.7 ± 0.2 TWh
+Storage and Pumping,UK & Ireland,2002,4.601687120052391,UK & Ireland 4.7 ± 0.2 TWh
+Storage and Pumping,UK & Ireland,2003,4.776974354592497,UK & Ireland 4.7 ± 0.2 TWh
+Storage and Pumping,UK & Ireland,2004,4.872640343412855,UK & Ireland 4.7 ± 0.2 TWh
+Storage and Pumping,UK & Ireland,2005,4.94450539028094,UK & Ireland 4.7 ± 0.2 TWh
+Storage and Pumping,UK & Ireland,2006,4.701342638618841,UK & Ireland 4.7 ± 0.2 TWh
+Storage and Pumping,UK & Ireland,2007,4.984911180883207,UK & Ireland 4.7 ± 0.2 TWh
+Storage and Pumping,UK & Ireland,2008,4.793028790148229,UK & Ireland 4.7 ± 0.2 TWh
+Storage and Pumping,UK & Ireland,2009,4.92240185053401,UK & Ireland 4.7 ± 0.2 TWh
+Storage and Pumping,UK & Ireland,2010,4.741179071008618,UK & Ireland 4.7 ± 0.2 TWh
+Storage and Pumping,UK & Ireland,2011,4.574160747189982,UK & Ireland 4.7 ± 0.2 TWh
+Storage and Pumping,UK & Ireland,2012,4.711598668035513,UK & Ireland 4.7 ± 0.2 TWh
+Storage and Pumping,UK & Ireland,2013,4.923123759943441,UK & Ireland 4.7 ± 0.2 TWh
+Storage and Pumping,UK & Ireland,2014,4.805149938868645,UK & Ireland 4.7 ± 0.2 TWh
+Storage and Pumping,UK & Ireland,2015,4.949586821641238,UK & Ireland 4.7 ± 0.2 TWh

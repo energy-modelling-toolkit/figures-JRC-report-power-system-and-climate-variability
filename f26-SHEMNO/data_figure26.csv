@@ -1,0 +1,313 @@
+m,id,region,hours
+Jan,1993,CEE,11
+Jan,1993,CWE,1
+Jan,1993,Iberia,1
+Jan,1993,Italy,20
+Jan,1993,Northern,21
+Jan,1993,UK & Ireland,27
+Jan,1998,CEE,3
+Jan,1998,CWE,12
+Jan,1998,Iberia,0
+Jan,1998,Italy,22
+Jan,1998,Northern,16
+Jan,1998,UK & Ireland,27
+Jan,2010,CEE,1
+Jan,2010,CWE,6
+Jan,2010,Iberia,1
+Jan,2010,Italy,18
+Jan,2010,Northern,4
+Jan,2010,SEE,0
+Jan,2010,UK & Ireland,12
+Jan,Rest,CEE,98
+Jan,Rest,CWE,224
+Jan,Rest,Iberia,50
+Jan,Rest,Italy,435
+Jan,Rest,Northern,401
+Jan,Rest,SEE,1
+Jan,Rest,UK & Ireland,490
+Feb,1993,CEE,0
+Feb,1993,CWE,4
+Feb,1993,Iberia,0
+Feb,1993,Italy,17
+Feb,1993,Northern,4
+Feb,1993,UK & Ireland,15
+Feb,1998,CEE,0
+Feb,1998,CWE,4
+Feb,1998,Iberia,6
+Feb,1998,Italy,23
+Feb,1998,Northern,11
+Feb,1998,UK & Ireland,14
+Feb,2010,CEE,0
+Feb,2010,CWE,7
+Feb,2010,Iberia,0
+Feb,2010,Italy,7
+Feb,2010,Northern,0
+Feb,2010,SEE,0
+Feb,2010,UK & Ireland,8
+Feb,Rest,CEE,32
+Feb,Rest,CWE,213
+Feb,Rest,Iberia,29
+Feb,Rest,Italy,343
+Feb,Rest,Northern,121
+Feb,Rest,SEE,3
+Feb,Rest,UK & Ireland,311
+Mar,1993,CEE,2
+Mar,1993,CWE,2
+Mar,1993,Iberia,0
+Mar,1993,Italy,26
+Mar,1993,Northern,10
+Mar,1993,UK & Ireland,14
+Mar,1998,CEE,5
+Mar,1998,CWE,5
+Mar,1998,Iberia,1
+Mar,1998,Italy,19
+Mar,1998,Northern,9
+Mar,1998,UK & Ireland,15
+Mar,2010,CEE,2
+Mar,2010,CWE,2
+Mar,2010,Iberia,0
+Mar,2010,Italy,18
+Mar,2010,Northern,1
+Mar,2010,SEE,0
+Mar,2010,UK & Ireland,12
+Mar,Rest,CEE,94
+Mar,Rest,CWE,63
+Mar,Rest,Iberia,18
+Mar,Rest,Italy,469
+Mar,Rest,Northern,149
+Mar,Rest,SEE,4
+Mar,Rest,UK & Ireland,365
+Apr,1993,CEE,30
+Apr,1993,CWE,0
+Apr,1993,Iberia,0
+Apr,1993,Italy,20
+Apr,1993,Northern,6
+Apr,1993,UK & Ireland,24
+Apr,1998,CEE,16
+Apr,1998,CWE,0
+Apr,1998,Iberia,2
+Apr,1998,Italy,13
+Apr,1998,Northern,1
+Apr,1998,UK & Ireland,12
+Apr,2010,CEE,11
+Apr,2010,CWE,0
+Apr,2010,Iberia,0
+Apr,2010,Italy,13
+Apr,2010,Northern,0
+Apr,2010,SEE,2
+Apr,2010,UK & Ireland,19
+Apr,Rest,CEE,348
+Apr,Rest,CWE,28
+Apr,Rest,Iberia,27
+Apr,Rest,Italy,324
+Apr,Rest,Northern,54
+Apr,Rest,SEE,1
+Apr,Rest,UK & Ireland,384
+May,1993,CEE,32
+May,1993,CWE,1
+May,1993,Iberia,0
+May,1993,Italy,8
+May,1993,Northern,0
+May,1993,UK & Ireland,34
+May,1998,CEE,47
+May,1998,CWE,2
+May,1998,Iberia,0
+May,1998,Italy,7
+May,1998,Northern,0
+May,1998,UK & Ireland,19
+May,2010,CEE,32
+May,2010,CWE,0
+May,2010,Iberia,0
+May,2010,Italy,3
+May,2010,Northern,0
+May,2010,SEE,0
+May,2010,UK & Ireland,26
+May,Rest,CEE,713
+May,Rest,CWE,17
+May,Rest,Iberia,56
+May,Rest,Italy,182
+May,Rest,Northern,9
+May,Rest,SEE,2
+May,Rest,UK & Ireland,439
+Jun,1993,CEE,22
+Jun,1993,CWE,0
+Jun,1993,Iberia,1
+Jun,1993,Italy,5
+Jun,1993,Northern,0
+Jun,1993,UK & Ireland,14
+Jun,1998,CEE,26
+Jun,1998,CWE,0
+Jun,1998,Iberia,0
+Jun,1998,Italy,10
+Jun,1998,Northern,0
+Jun,1998,UK & Ireland,33
+Jun,2010,CEE,27
+Jun,2010,CWE,0
+Jun,2010,Iberia,3
+Jun,2010,Italy,8
+Jun,2010,Northern,0
+Jun,2010,SEE,0
+Jun,2010,UK & Ireland,26
+Jun,Rest,CEE,671
+Jun,Rest,CWE,14
+Jun,Rest,Iberia,31
+Jun,Rest,Italy,202
+Jun,Rest,Northern,53
+Jun,Rest,SEE,1
+Jun,Rest,UK & Ireland,470
+Jul,1993,CEE,4
+Jul,1993,CWE,0
+Jul,1993,Iberia,1
+Jul,1993,Italy,4
+Jul,1993,Northern,0
+Jul,1993,UK & Ireland,23
+Jul,1998,CEE,7
+Jul,1998,CWE,0
+Jul,1998,Iberia,2
+Jul,1998,Italy,13
+Jul,1998,Northern,0
+Jul,1998,UK & Ireland,30
+Jul,2010,CEE,24
+Jul,2010,CWE,0
+Jul,2010,Iberia,2
+Jul,2010,Italy,6
+Jul,2010,Northern,0
+Jul,2010,SEE,0
+Jul,2010,UK & Ireland,26
+Jul,Rest,CEE,374
+Jul,Rest,CWE,26
+Jul,Rest,Iberia,51
+Jul,Rest,Italy,190
+Jul,Rest,Northern,9
+Jul,Rest,SEE,2
+Jul,Rest,UK & Ireland,474
+Aug,1993,CEE,6
+Aug,1993,CWE,0
+Aug,1993,Iberia,1
+Aug,1993,Italy,9
+Aug,1993,Northern,0
+Aug,1993,UK & Ireland,37
+Aug,1998,CEE,10
+Aug,1998,CWE,0
+Aug,1998,Iberia,0
+Aug,1998,Italy,20
+Aug,1998,Northern,0
+Aug,1998,UK & Ireland,21
+Aug,2010,CEE,7
+Aug,2010,CWE,0
+Aug,2010,Iberia,6
+Aug,2010,Italy,12
+Aug,2010,Northern,0
+Aug,2010,SEE,0
+Aug,2010,UK & Ireland,30
+Aug,Rest,CEE,251
+Aug,Rest,CWE,8
+Aug,Rest,Iberia,41
+Aug,Rest,Italy,264
+Aug,Rest,Northern,7
+Aug,Rest,SEE,0
+Aug,Rest,UK & Ireland,496
+Sep,1993,CEE,5
+Sep,1993,CWE,0
+Sep,1993,Iberia,0
+Sep,1993,Italy,10
+Sep,1993,Northern,10
+Sep,1993,UK & Ireland,14
+Sep,1998,CEE,8
+Sep,1998,CWE,1
+Sep,1998,Iberia,0
+Sep,1998,Italy,14
+Sep,1998,Northern,3
+Sep,1998,UK & Ireland,15
+Sep,2010,CEE,5
+Sep,2010,CWE,0
+Sep,2010,Iberia,4
+Sep,2010,Italy,7
+Sep,2010,Northern,0
+Sep,2010,SEE,0
+Sep,2010,UK & Ireland,21
+Sep,Rest,CEE,135
+Sep,Rest,CWE,26
+Sep,Rest,Iberia,11
+Sep,Rest,Italy,296
+Sep,Rest,Northern,33
+Sep,Rest,SEE,0
+Sep,Rest,UK & Ireland,455
+Oct,1993,CEE,15
+Oct,1993,CWE,2
+Oct,1993,Iberia,1
+Oct,1993,Italy,20
+Oct,1993,Northern,22
+Oct,1993,UK & Ireland,23
+Oct,1998,CEE,7
+Oct,1998,CWE,6
+Oct,1998,Iberia,4
+Oct,1998,Italy,27
+Oct,1998,Northern,21
+Oct,1998,UK & Ireland,22
+Oct,2010,CEE,1
+Oct,2010,CWE,6
+Oct,2010,Iberia,0
+Oct,2010,Italy,26
+Oct,2010,Northern,7
+Oct,2010,SEE,0
+Oct,2010,UK & Ireland,18
+Oct,Rest,CEE,136
+Oct,Rest,CWE,93
+Oct,Rest,Iberia,9
+Oct,Rest,Italy,478
+Oct,Rest,Northern,207
+Oct,Rest,SEE,1
+Oct,Rest,UK & Ireland,530
+Nov,1993,CEE,14
+Nov,1993,CWE,213
+Nov,1993,Iberia,0
+Nov,1993,Italy,18
+Nov,1993,Northern,11
+Nov,1993,UK & Ireland,16
+Nov,1998,CEE,24
+Nov,1998,CWE,237
+Nov,1998,Iberia,0
+Nov,1998,Italy,23
+Nov,1998,Northern,20
+Nov,1998,UK & Ireland,19
+Nov,2010,CEE,1
+Nov,2010,CWE,138
+Nov,2010,Iberia,0
+Nov,2010,Italy,24
+Nov,2010,Northern,0
+Nov,2010,SEE,0
+Nov,2010,UK & Ireland,18
+Nov,Rest,CEE,129
+Nov,Rest,CWE,450
+Nov,Rest,Iberia,13
+Nov,Rest,Italy,575
+Nov,Rest,Northern,342
+Nov,Rest,SEE,0
+Nov,Rest,UK & Ireland,399
+Dec,1993,CEE,1
+Dec,1993,CWE,53
+Dec,1993,Iberia,0
+Dec,1993,Italy,17
+Dec,1993,Northern,23
+Dec,1993,UK & Ireland,9
+Dec,1998,CEE,5
+Dec,1998,CWE,136
+Dec,1998,Iberia,0
+Dec,1998,Italy,6
+Dec,1998,Northern,17
+Dec,1998,UK & Ireland,13
+Dec,2010,CEE,4
+Dec,2010,CWE,140
+Dec,2010,Iberia,0
+Dec,2010,Italy,8
+Dec,2010,Northern,2
+Dec,2010,SEE,0
+Dec,2010,UK & Ireland,13
+Dec,Rest,CEE,138
+Dec,Rest,CWE,630
+Dec,Rest,Iberia,3
+Dec,Rest,Italy,373
+Dec,Rest,Northern,321
+Dec,Rest,SEE,0
+Dec,Rest,UK & Ireland,358

@@ -1,0 +1,729 @@
+region,id,season,hours,class
+UK & Ireland,1990,Winter,9,5-9
+UK & Ireland,1990,Spring,8,5-9
+UK & Ireland,1990,Summer,7,5-9
+UK & Ireland,1990,Autumn,18,10-19
+UK & Ireland,1991,Winter,13,10-19
+UK & Ireland,1991,Spring,24,20-39
+UK & Ireland,1991,Summer,9,5-9
+UK & Ireland,1991,Autumn,42,40-59
+UK & Ireland,1992,Winter,9,5-9
+UK & Ireland,1992,Spring,4,1-4
+UK & Ireland,1992,Summer,4,1-4
+UK & Ireland,1992,Autumn,21,20-39
+UK & Ireland,1993,Winter,11,10-19
+UK & Ireland,1993,Spring,3,1-4
+UK & Ireland,1993,Summer,0,0
+UK & Ireland,1993,Autumn,5,1-4
+UK & Ireland,1994,Winter,12,10-19
+UK & Ireland,1994,Spring,5,1-4
+UK & Ireland,1994,Summer,0,0
+UK & Ireland,1994,Autumn,1,1-4
+UK & Ireland,1995,Winter,12,10-19
+UK & Ireland,1995,Spring,3,1-4
+UK & Ireland,1995,Summer,9,5-9
+UK & Ireland,1995,Autumn,24,20-39
+UK & Ireland,1996,Winter,9,5-9
+UK & Ireland,1996,Spring,6,5-9
+UK & Ireland,1996,Summer,18,10-19
+UK & Ireland,1996,Autumn,14,10-19
+UK & Ireland,1997,Winter,0,0
+UK & Ireland,1997,Spring,9,5-9
+UK & Ireland,1997,Summer,8,5-9
+UK & Ireland,1997,Autumn,16,10-19
+UK & Ireland,1998,Winter,37,20-39
+UK & Ireland,1998,Spring,0,0
+UK & Ireland,1998,Summer,28,20-39
+UK & Ireland,1998,Autumn,8,5-9
+UK & Ireland,1999,Winter,4,1-4
+UK & Ireland,1999,Spring,18,10-19
+UK & Ireland,1999,Summer,2,1-4
+UK & Ireland,1999,Autumn,9,5-9
+UK & Ireland,2000,Winter,33,20-39
+UK & Ireland,2000,Spring,0,0
+UK & Ireland,2000,Summer,29,20-39
+UK & Ireland,2000,Autumn,7,5-9
+UK & Ireland,2001,Winter,3,1-4
+UK & Ireland,2001,Spring,0,0
+UK & Ireland,2001,Summer,5,1-4
+UK & Ireland,2001,Autumn,15,10-19
+UK & Ireland,2002,Winter,8,5-9
+UK & Ireland,2002,Spring,3,1-4
+UK & Ireland,2002,Summer,52,40-59
+UK & Ireland,2002,Autumn,0,0
+UK & Ireland,2003,Winter,9,5-9
+UK & Ireland,2003,Spring,3,1-4
+UK & Ireland,2003,Summer,3,1-4
+UK & Ireland,2003,Autumn,29,20-39
+UK & Ireland,2004,Winter,0,0
+UK & Ireland,2004,Spring,14,10-19
+UK & Ireland,2004,Summer,1,1-4
+UK & Ireland,2004,Autumn,30,20-39
+UK & Ireland,2005,Winter,11,10-19
+UK & Ireland,2005,Spring,3,1-4
+UK & Ireland,2005,Summer,5,1-4
+UK & Ireland,2005,Autumn,12,10-19
+UK & Ireland,2006,Winter,11,10-19
+UK & Ireland,2006,Spring,16,10-19
+UK & Ireland,2006,Summer,3,1-4
+UK & Ireland,2006,Autumn,17,10-19
+UK & Ireland,2007,Winter,10,5-9
+UK & Ireland,2007,Spring,0,0
+UK & Ireland,2007,Summer,1,1-4
+UK & Ireland,2007,Autumn,13,10-19
+UK & Ireland,2008,Winter,4,1-4
+UK & Ireland,2008,Spring,1,1-4
+UK & Ireland,2008,Summer,51,40-59
+UK & Ireland,2008,Autumn,12,10-19
+UK & Ireland,2009,Winter,1,1-4
+UK & Ireland,2009,Spring,8,5-9
+UK & Ireland,2009,Summer,20,10-19
+UK & Ireland,2009,Autumn,16,10-19
+UK & Ireland,2010,Winter,8,5-9
+UK & Ireland,2010,Spring,6,5-9
+UK & Ireland,2010,Summer,12,10-19
+UK & Ireland,2010,Autumn,15,10-19
+UK & Ireland,2011,Winter,3,1-4
+UK & Ireland,2011,Spring,4,1-4
+UK & Ireland,2011,Summer,15,10-19
+UK & Ireland,2011,Autumn,31,20-39
+UK & Ireland,2012,Winter,2,1-4
+UK & Ireland,2012,Spring,8,5-9
+UK & Ireland,2012,Summer,8,5-9
+UK & Ireland,2012,Autumn,7,5-9
+UK & Ireland,2013,Winter,27,20-39
+UK & Ireland,2013,Spring,4,1-4
+UK & Ireland,2013,Summer,7,5-9
+UK & Ireland,2013,Autumn,12,10-19
+UK & Ireland,2014,Winter,10,5-9
+UK & Ireland,2014,Spring,8,5-9
+UK & Ireland,2014,Summer,0,0
+UK & Ireland,2014,Autumn,9,5-9
+UK & Ireland,2015,Winter,2,1-4
+UK & Ireland,2015,Spring,6,5-9
+UK & Ireland,2015,Summer,3,1-4
+UK & Ireland,2015,Autumn,12,10-19
+CEE,1990,Winter,0,0
+CEE,1990,Spring,0,0
+CEE,1990,Summer,0,0
+CEE,1990,Autumn,0,0
+CEE,1991,Winter,0,0
+CEE,1991,Spring,16,10-19
+CEE,1991,Summer,0,0
+CEE,1991,Autumn,12,10-19
+CEE,1992,Winter,0,0
+CEE,1992,Spring,0,0
+CEE,1992,Summer,0,0
+CEE,1992,Autumn,0,0
+CEE,1993,Winter,0,0
+CEE,1993,Spring,0,0
+CEE,1993,Summer,0,0
+CEE,1993,Autumn,0,0
+CEE,1994,Winter,0,0
+CEE,1994,Spring,0,0
+CEE,1994,Summer,0,0
+CEE,1994,Autumn,0,0
+CEE,1995,Winter,0,0
+CEE,1995,Spring,0,0
+CEE,1995,Summer,0,0
+CEE,1995,Autumn,0,0
+CEE,1996,Winter,0,0
+CEE,1996,Spring,0,0
+CEE,1996,Summer,7,5-9
+CEE,1996,Autumn,0,0
+CEE,1997,Winter,0,0
+CEE,1997,Spring,0,0
+CEE,1997,Summer,0,0
+CEE,1997,Autumn,0,0
+CEE,1998,Winter,5,1-4
+CEE,1998,Spring,0,0
+CEE,1998,Summer,16,10-19
+CEE,1998,Autumn,0,0
+CEE,1999,Winter,0,0
+CEE,1999,Spring,8,5-9
+CEE,1999,Summer,0,0
+CEE,1999,Autumn,0,0
+CEE,2000,Winter,6,5-9
+CEE,2000,Spring,0,0
+CEE,2000,Summer,15,10-19
+CEE,2000,Autumn,0,0
+CEE,2001,Winter,0,0
+CEE,2001,Spring,0,0
+CEE,2001,Summer,0,0
+CEE,2001,Autumn,0,0
+CEE,2002,Winter,0,0
+CEE,2002,Spring,0,0
+CEE,2002,Summer,32,20-39
+CEE,2002,Autumn,0,0
+CEE,2003,Winter,0,0
+CEE,2003,Spring,0,0
+CEE,2003,Summer,0,0
+CEE,2003,Autumn,15,10-19
+CEE,2004,Winter,0,0
+CEE,2004,Spring,0,0
+CEE,2004,Summer,0,0
+CEE,2004,Autumn,11,10-19
+CEE,2005,Winter,0,0
+CEE,2005,Spring,0,0
+CEE,2005,Summer,0,0
+CEE,2005,Autumn,0,0
+CEE,2006,Winter,0,0
+CEE,2006,Spring,16,10-19
+CEE,2006,Summer,0,0
+CEE,2006,Autumn,0,0
+CEE,2007,Winter,0,0
+CEE,2007,Spring,0,0
+CEE,2007,Summer,0,0
+CEE,2007,Autumn,0,0
+CEE,2008,Winter,0,0
+CEE,2008,Spring,0,0
+CEE,2008,Summer,42,40-59
+CEE,2008,Autumn,0,0
+CEE,2009,Winter,0,0
+CEE,2009,Spring,0,0
+CEE,2009,Summer,0,0
+CEE,2009,Autumn,0,0
+CEE,2010,Winter,0,0
+CEE,2010,Spring,0,0
+CEE,2010,Summer,0,0
+CEE,2010,Autumn,0,0
+CEE,2011,Winter,0,0
+CEE,2011,Spring,0,0
+CEE,2011,Summer,10,5-9
+CEE,2011,Autumn,0,0
+CEE,2012,Winter,0,0
+CEE,2012,Spring,0,0
+CEE,2012,Summer,0,0
+CEE,2012,Autumn,0,0
+CEE,2013,Winter,8,5-9
+CEE,2013,Spring,0,0
+CEE,2013,Summer,0,0
+CEE,2013,Autumn,0,0
+CEE,2014,Winter,0,0
+CEE,2014,Spring,0,0
+CEE,2014,Summer,0,0
+CEE,2014,Autumn,0,0
+CEE,2015,Winter,0,0
+CEE,2015,Spring,0,0
+CEE,2015,Summer,0,0
+CEE,2015,Autumn,0,0
+CWE,1990,Winter,0,0
+CWE,1990,Spring,0,0
+CWE,1990,Summer,0,0
+CWE,1990,Autumn,0,0
+CWE,1991,Winter,0,0
+CWE,1991,Spring,27,20-39
+CWE,1991,Summer,0,0
+CWE,1991,Autumn,19,10-19
+CWE,1992,Winter,0,0
+CWE,1992,Spring,0,0
+CWE,1992,Summer,0,0
+CWE,1992,Autumn,0,0
+CWE,1993,Winter,0,0
+CWE,1993,Spring,0,0
+CWE,1993,Summer,0,0
+CWE,1993,Autumn,0,0
+CWE,1994,Winter,0,0
+CWE,1994,Spring,0,0
+CWE,1994,Summer,0,0
+CWE,1994,Autumn,0,0
+CWE,1995,Winter,0,0
+CWE,1995,Spring,0,0
+CWE,1995,Summer,0,0
+CWE,1995,Autumn,0,0
+CWE,1996,Winter,0,0
+CWE,1996,Spring,0,0
+CWE,1996,Summer,19,10-19
+CWE,1996,Autumn,0,0
+CWE,1997,Winter,0,0
+CWE,1997,Spring,0,0
+CWE,1997,Summer,0,0
+CWE,1997,Autumn,0,0
+CWE,1998,Winter,29,20-39
+CWE,1998,Spring,0,0
+CWE,1998,Summer,20,10-19
+CWE,1998,Autumn,0,0
+CWE,1999,Winter,0,0
+CWE,1999,Spring,22,20-39
+CWE,1999,Summer,0,0
+CWE,1999,Autumn,0,0
+CWE,2000,Winter,16,10-19
+CWE,2000,Spring,0,0
+CWE,2000,Summer,25,20-39
+CWE,2000,Autumn,0,0
+CWE,2001,Winter,0,0
+CWE,2001,Spring,0,0
+CWE,2001,Summer,0,0
+CWE,2001,Autumn,0,0
+CWE,2002,Winter,0,0
+CWE,2002,Spring,0,0
+CWE,2002,Summer,53,40-59
+CWE,2002,Autumn,0,0
+CWE,2003,Winter,0,0
+CWE,2003,Spring,0,0
+CWE,2003,Summer,0,0
+CWE,2003,Autumn,21,20-39
+CWE,2004,Winter,0,0
+CWE,2004,Spring,0,0
+CWE,2004,Summer,0,0
+CWE,2004,Autumn,20,10-19
+CWE,2005,Winter,0,0
+CWE,2005,Spring,0,0
+CWE,2005,Summer,0,0
+CWE,2005,Autumn,0,0
+CWE,2006,Winter,0,0
+CWE,2006,Spring,18,10-19
+CWE,2006,Summer,0,0
+CWE,2006,Autumn,0,0
+CWE,2007,Winter,0,0
+CWE,2007,Spring,0,0
+CWE,2007,Summer,0,0
+CWE,2007,Autumn,0,0
+CWE,2008,Winter,0,0
+CWE,2008,Spring,0,0
+CWE,2008,Summer,71,60-99
+CWE,2008,Autumn,0,0
+CWE,2009,Winter,0,0
+CWE,2009,Spring,0,0
+CWE,2009,Summer,0,0
+CWE,2009,Autumn,0,0
+CWE,2010,Winter,0,0
+CWE,2010,Spring,0,0
+CWE,2010,Summer,0,0
+CWE,2010,Autumn,0,0
+CWE,2011,Winter,0,0
+CWE,2011,Spring,0,0
+CWE,2011,Summer,30,20-39
+CWE,2011,Autumn,0,0
+CWE,2012,Winter,0,0
+CWE,2012,Spring,0,0
+CWE,2012,Summer,0,0
+CWE,2012,Autumn,0,0
+CWE,2013,Winter,21,20-39
+CWE,2013,Spring,0,0
+CWE,2013,Summer,0,0
+CWE,2013,Autumn,0,0
+CWE,2014,Winter,0,0
+CWE,2014,Spring,0,0
+CWE,2014,Summer,0,0
+CWE,2014,Autumn,0,0
+CWE,2015,Winter,0,0
+CWE,2015,Spring,0,0
+CWE,2015,Summer,0,0
+CWE,2015,Autumn,0,0
+Iberia,1990,Winter,0,0
+Iberia,1990,Spring,0,0
+Iberia,1990,Summer,0,0
+Iberia,1990,Autumn,0,0
+Iberia,1991,Winter,0,0
+Iberia,1991,Spring,14,10-19
+Iberia,1991,Summer,0,0
+Iberia,1991,Autumn,8,5-9
+Iberia,1992,Winter,0,0
+Iberia,1992,Spring,0,0
+Iberia,1992,Summer,0,0
+Iberia,1992,Autumn,0,0
+Iberia,1993,Winter,0,0
+Iberia,1993,Spring,0,0
+Iberia,1993,Summer,0,0
+Iberia,1993,Autumn,0,0
+Iberia,1994,Winter,0,0
+Iberia,1994,Spring,0,0
+Iberia,1994,Summer,0,0
+Iberia,1994,Autumn,0,0
+Iberia,1995,Winter,2,1-4
+Iberia,1995,Spring,0,0
+Iberia,1995,Summer,0,0
+Iberia,1995,Autumn,0,0
+Iberia,1996,Winter,1,1-4
+Iberia,1996,Spring,0,0
+Iberia,1996,Summer,8,5-9
+Iberia,1996,Autumn,0,0
+Iberia,1997,Winter,0,0
+Iberia,1997,Spring,0,0
+Iberia,1997,Summer,0,0
+Iberia,1997,Autumn,0,0
+Iberia,1998,Winter,2,1-4
+Iberia,1998,Spring,0,0
+Iberia,1998,Summer,11,10-19
+Iberia,1998,Autumn,0,0
+Iberia,1999,Winter,0,0
+Iberia,1999,Spring,8,5-9
+Iberia,1999,Summer,0,0
+Iberia,1999,Autumn,0,0
+Iberia,2000,Winter,6,5-9
+Iberia,2000,Spring,0,0
+Iberia,2000,Summer,9,5-9
+Iberia,2000,Autumn,0,0
+Iberia,2001,Winter,0,0
+Iberia,2001,Spring,0,0
+Iberia,2001,Summer,0,0
+Iberia,2001,Autumn,0,0
+Iberia,2002,Winter,0,0
+Iberia,2002,Spring,0,0
+Iberia,2002,Summer,18,10-19
+Iberia,2002,Autumn,0,0
+Iberia,2003,Winter,0,0
+Iberia,2003,Spring,0,0
+Iberia,2003,Summer,0,0
+Iberia,2003,Autumn,11,10-19
+Iberia,2004,Winter,0,0
+Iberia,2004,Spring,0,0
+Iberia,2004,Summer,0,0
+Iberia,2004,Autumn,7,5-9
+Iberia,2005,Winter,0,0
+Iberia,2005,Spring,0,0
+Iberia,2005,Summer,0,0
+Iberia,2005,Autumn,0,0
+Iberia,2006,Winter,0,0
+Iberia,2006,Spring,6,5-9
+Iberia,2006,Summer,0,0
+Iberia,2006,Autumn,0,0
+Iberia,2007,Winter,0,0
+Iberia,2007,Spring,0,0
+Iberia,2007,Summer,0,0
+Iberia,2007,Autumn,0,0
+Iberia,2008,Winter,0,0
+Iberia,2008,Spring,0,0
+Iberia,2008,Summer,27,20-39
+Iberia,2008,Autumn,0,0
+Iberia,2009,Winter,3,1-4
+Iberia,2009,Spring,0,0
+Iberia,2009,Summer,0,0
+Iberia,2009,Autumn,0,0
+Iberia,2010,Winter,0,0
+Iberia,2010,Spring,0,0
+Iberia,2010,Summer,0,0
+Iberia,2010,Autumn,0,0
+Iberia,2011,Winter,0,0
+Iberia,2011,Spring,0,0
+Iberia,2011,Summer,8,5-9
+Iberia,2011,Autumn,0,0
+Iberia,2012,Winter,0,0
+Iberia,2012,Spring,0,0
+Iberia,2012,Summer,0,0
+Iberia,2012,Autumn,0,0
+Iberia,2013,Winter,8,5-9
+Iberia,2013,Spring,0,0
+Iberia,2013,Summer,0,0
+Iberia,2013,Autumn,0,0
+Iberia,2014,Winter,0,0
+Iberia,2014,Spring,0,0
+Iberia,2014,Summer,0,0
+Iberia,2014,Autumn,0,0
+Iberia,2015,Winter,0,0
+Iberia,2015,Spring,0,0
+Iberia,2015,Summer,0,0
+Iberia,2015,Autumn,0,0
+Italy,1990,Winter,0,0
+Italy,1990,Spring,0,0
+Italy,1990,Summer,0,0
+Italy,1990,Autumn,0,0
+Italy,1991,Winter,0,0
+Italy,1991,Spring,8,5-9
+Italy,1991,Summer,0,0
+Italy,1991,Autumn,7,5-9
+Italy,1992,Winter,0,0
+Italy,1992,Spring,0,0
+Italy,1992,Summer,0,0
+Italy,1992,Autumn,0,0
+Italy,1993,Winter,0,0
+Italy,1993,Spring,0,0
+Italy,1993,Summer,0,0
+Italy,1993,Autumn,0,0
+Italy,1994,Winter,0,0
+Italy,1994,Spring,0,0
+Italy,1994,Summer,0,0
+Italy,1994,Autumn,0,0
+Italy,1995,Winter,0,0
+Italy,1995,Spring,0,0
+Italy,1995,Summer,0,0
+Italy,1995,Autumn,0,0
+Italy,1996,Winter,0,0
+Italy,1996,Spring,0,0
+Italy,1996,Summer,11,10-19
+Italy,1996,Autumn,0,0
+Italy,1997,Winter,0,0
+Italy,1997,Spring,0,0
+Italy,1997,Summer,0,0
+Italy,1997,Autumn,0,0
+Italy,1998,Winter,3,1-4
+Italy,1998,Spring,0,0
+Italy,1998,Summer,11,10-19
+Italy,1998,Autumn,0,0
+Italy,1999,Winter,0,0
+Italy,1999,Spring,8,5-9
+Italy,1999,Summer,0,0
+Italy,1999,Autumn,0,0
+Italy,2000,Winter,4,1-4
+Italy,2000,Spring,0,0
+Italy,2000,Summer,13,10-19
+Italy,2000,Autumn,0,0
+Italy,2001,Winter,0,0
+Italy,2001,Spring,0,0
+Italy,2001,Summer,0,0
+Italy,2001,Autumn,0,0
+Italy,2002,Winter,0,0
+Italy,2002,Spring,0,0
+Italy,2002,Summer,21,20-39
+Italy,2002,Autumn,0,0
+Italy,2003,Winter,0,0
+Italy,2003,Spring,0,0
+Italy,2003,Summer,0,0
+Italy,2003,Autumn,11,10-19
+Italy,2004,Winter,0,0
+Italy,2004,Spring,0,0
+Italy,2004,Summer,0,0
+Italy,2004,Autumn,9,5-9
+Italy,2005,Winter,0,0
+Italy,2005,Spring,0,0
+Italy,2005,Summer,0,0
+Italy,2005,Autumn,0,0
+Italy,2006,Winter,0,0
+Italy,2006,Spring,12,10-19
+Italy,2006,Summer,0,0
+Italy,2006,Autumn,0,0
+Italy,2007,Winter,0,0
+Italy,2007,Spring,0,0
+Italy,2007,Summer,0,0
+Italy,2007,Autumn,0,0
+Italy,2008,Winter,0,0
+Italy,2008,Spring,0,0
+Italy,2008,Summer,22,20-39
+Italy,2008,Autumn,0,0
+Italy,2009,Winter,0,0
+Italy,2009,Spring,0,0
+Italy,2009,Summer,0,0
+Italy,2009,Autumn,0,0
+Italy,2010,Winter,0,0
+Italy,2010,Spring,0,0
+Italy,2010,Summer,0,0
+Italy,2010,Autumn,0,0
+Italy,2011,Winter,0,0
+Italy,2011,Spring,0,0
+Italy,2011,Summer,6,5-9
+Italy,2011,Autumn,0,0
+Italy,2012,Winter,0,0
+Italy,2012,Spring,0,0
+Italy,2012,Summer,0,0
+Italy,2012,Autumn,0,0
+Italy,2013,Winter,6,5-9
+Italy,2013,Spring,0,0
+Italy,2013,Summer,0,0
+Italy,2013,Autumn,0,0
+Italy,2014,Winter,0,0
+Italy,2014,Spring,0,0
+Italy,2014,Summer,0,0
+Italy,2014,Autumn,0,0
+Italy,2015,Winter,0,0
+Italy,2015,Spring,0,0
+Italy,2015,Summer,0,0
+Italy,2015,Autumn,0,0
+Northern,1990,Winter,0,0
+Northern,1990,Spring,0,0
+Northern,1990,Summer,0,0
+Northern,1990,Autumn,0,0
+Northern,1991,Winter,0,0
+Northern,1991,Spring,15,10-19
+Northern,1991,Summer,0,0
+Northern,1991,Autumn,13,10-19
+Northern,1992,Winter,0,0
+Northern,1992,Spring,0,0
+Northern,1992,Summer,0,0
+Northern,1992,Autumn,0,0
+Northern,1993,Winter,0,0
+Northern,1993,Spring,0,0
+Northern,1993,Summer,0,0
+Northern,1993,Autumn,0,0
+Northern,1994,Winter,0,0
+Northern,1994,Spring,0,0
+Northern,1994,Summer,0,0
+Northern,1994,Autumn,0,0
+Northern,1995,Winter,0,0
+Northern,1995,Spring,0,0
+Northern,1995,Summer,0,0
+Northern,1995,Autumn,0,0
+Northern,1996,Winter,0,0
+Northern,1996,Spring,0,0
+Northern,1996,Summer,18,10-19
+Northern,1996,Autumn,0,0
+Northern,1997,Winter,0,0
+Northern,1997,Spring,0,0
+Northern,1997,Summer,0,0
+Northern,1997,Autumn,0,0
+Northern,1998,Winter,29,20-39
+Northern,1998,Spring,0,0
+Northern,1998,Summer,16,10-19
+Northern,1998,Autumn,0,0
+Northern,1999,Winter,0,0
+Northern,1999,Spring,15,10-19
+Northern,1999,Summer,0,0
+Northern,1999,Autumn,0,0
+Northern,2000,Winter,18,10-19
+Northern,2000,Spring,0,0
+Northern,2000,Summer,21,20-39
+Northern,2000,Autumn,1133,>100
+Northern,2001,Winter,0,0
+Northern,2001,Spring,0,0
+Northern,2001,Summer,0,0
+Northern,2001,Autumn,0,0
+Northern,2002,Winter,0,0
+Northern,2002,Spring,0,0
+Northern,2002,Summer,41,40-59
+Northern,2002,Autumn,0,0
+Northern,2003,Winter,0,0
+Northern,2003,Spring,0,0
+Northern,2003,Summer,0,0
+Northern,2003,Autumn,20,10-19
+Northern,2004,Winter,0,0
+Northern,2004,Spring,0,0
+Northern,2004,Summer,0,0
+Northern,2004,Autumn,14,10-19
+Northern,2005,Winter,0,0
+Northern,2005,Spring,0,0
+Northern,2005,Summer,0,0
+Northern,2005,Autumn,0,0
+Northern,2006,Winter,0,0
+Northern,2006,Spring,15,10-19
+Northern,2006,Summer,0,0
+Northern,2006,Autumn,0,0
+Northern,2007,Winter,0,0
+Northern,2007,Spring,0,0
+Northern,2007,Summer,0,0
+Northern,2007,Autumn,0,0
+Northern,2008,Winter,0,0
+Northern,2008,Spring,0,0
+Northern,2008,Summer,63,60-99
+Northern,2008,Autumn,0,0
+Northern,2009,Winter,0,0
+Northern,2009,Spring,0,0
+Northern,2009,Summer,0,0
+Northern,2009,Autumn,0,0
+Northern,2010,Winter,0,0
+Northern,2010,Spring,0,0
+Northern,2010,Summer,0,0
+Northern,2010,Autumn,0,0
+Northern,2011,Winter,0,0
+Northern,2011,Spring,0,0
+Northern,2011,Summer,22,20-39
+Northern,2011,Autumn,0,0
+Northern,2012,Winter,0,0
+Northern,2012,Spring,0,0
+Northern,2012,Summer,0,0
+Northern,2012,Autumn,0,0
+Northern,2013,Winter,11,10-19
+Northern,2013,Spring,0,0
+Northern,2013,Summer,0,0
+Northern,2013,Autumn,0,0
+Northern,2014,Winter,0,0
+Northern,2014,Spring,0,0
+Northern,2014,Summer,0,0
+Northern,2014,Autumn,0,0
+Northern,2015,Winter,0,0
+Northern,2015,Spring,0,0
+Northern,2015,Summer,0,0
+Northern,2015,Autumn,0,0
+SEE,1990,Winter,0,0
+SEE,1990,Spring,0,0
+SEE,1990,Summer,0,0
+SEE,1990,Autumn,0,0
+SEE,1991,Winter,0,0
+SEE,1991,Spring,9,5-9
+SEE,1991,Summer,0,0
+SEE,1991,Autumn,5,1-4
+SEE,1992,Winter,0,0
+SEE,1992,Spring,0,0
+SEE,1992,Summer,0,0
+SEE,1992,Autumn,0,0
+SEE,1993,Winter,0,0
+SEE,1993,Spring,0,0
+SEE,1993,Summer,0,0
+SEE,1993,Autumn,0,0
+SEE,1994,Winter,0,0
+SEE,1994,Spring,0,0
+SEE,1994,Summer,0,0
+SEE,1994,Autumn,0,0
+SEE,1995,Winter,0,0
+SEE,1995,Spring,0,0
+SEE,1995,Summer,0,0
+SEE,1995,Autumn,0,0
+SEE,1996,Winter,0,0
+SEE,1996,Spring,0,0
+SEE,1996,Summer,10,5-9
+SEE,1996,Autumn,0,0
+SEE,1997,Winter,0,0
+SEE,1997,Spring,0,0
+SEE,1997,Summer,0,0
+SEE,1997,Autumn,0,0
+SEE,1998,Winter,4,1-4
+SEE,1998,Spring,0,0
+SEE,1998,Summer,9,5-9
+SEE,1998,Autumn,0,0
+SEE,1999,Winter,0,0
+SEE,1999,Spring,4,1-4
+SEE,1999,Summer,0,0
+SEE,1999,Autumn,0,0
+SEE,2000,Winter,3,1-4
+SEE,2000,Spring,0,0
+SEE,2000,Summer,8,5-9
+SEE,2000,Autumn,0,0
+SEE,2001,Winter,0,0
+SEE,2001,Spring,0,0
+SEE,2001,Summer,0,0
+SEE,2001,Autumn,0,0
+SEE,2002,Winter,0,0
+SEE,2002,Spring,0,0
+SEE,2002,Summer,28,20-39
+SEE,2002,Autumn,0,0
+SEE,2003,Winter,0,0
+SEE,2003,Spring,0,0
+SEE,2003,Summer,0,0
+SEE,2003,Autumn,11,10-19
+SEE,2004,Winter,0,0
+SEE,2004,Spring,0,0
+SEE,2004,Summer,0,0
+SEE,2004,Autumn,8,5-9
+SEE,2005,Winter,0,0
+SEE,2005,Spring,0,0
+SEE,2005,Summer,0,0
+SEE,2005,Autumn,0,0
+SEE,2006,Winter,0,0
+SEE,2006,Spring,13,10-19
+SEE,2006,Summer,0,0
+SEE,2006,Autumn,0,0
+SEE,2007,Winter,0,0
+SEE,2007,Spring,0,0
+SEE,2007,Summer,0,0
+SEE,2007,Autumn,0,0
+SEE,2008,Winter,0,0
+SEE,2008,Spring,0,0
+SEE,2008,Summer,34,20-39
+SEE,2008,Autumn,0,0
+SEE,2009,Winter,0,0
+SEE,2009,Spring,0,0
+SEE,2009,Summer,0,0
+SEE,2009,Autumn,0,0
+SEE,2010,Winter,0,0
+SEE,2010,Spring,0,0
+SEE,2010,Summer,0,0
+SEE,2010,Autumn,0,0
+SEE,2011,Winter,0,0
+SEE,2011,Spring,0,0
+SEE,2011,Summer,13,10-19
+SEE,2011,Autumn,0,0
+SEE,2012,Winter,0,0
+SEE,2012,Spring,0,0
+SEE,2012,Summer,0,0
+SEE,2012,Autumn,0,0
+SEE,2013,Winter,11,10-19
+SEE,2013,Spring,0,0
+SEE,2013,Summer,0,0
+SEE,2013,Autumn,0,0
+SEE,2014,Winter,0,0
+SEE,2014,Spring,0,0
+SEE,2014,Summer,0,0
+SEE,2014,Autumn,0,0
+SEE,2015,Winter,0,0
+SEE,2015,Spring,0,0
+SEE,2015,Summer,0,0
+SEE,2015,Autumn,0,0
