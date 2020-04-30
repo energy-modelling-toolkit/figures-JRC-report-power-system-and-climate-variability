@@ -17,3 +17,8 @@ All the code has been tested with R 3.4 and the following packages:
 - patchwork 1.0.0
 - sf 0.9.1
 
+## Linked resources
+
+1. Model inputs: https://zenodo.org/record/3775569
+2. Model outputs: https://zenodo.org/record/3778133
+
